@@ -1,0 +1,11 @@
+{
+  "说明": "空模板。字段的 null 表示未知，已确认没有用空数组加确认日期记录。复制到明确授权的私有位置，一人一份。只填写与该请求有关的字段。每个已填值在confirmed_at记录字段名和本人的确认日期。",
+  "member_id": null, "age_or_band": null, "region": null, "current_stage": null, "reproductive_role": null,
+  "goals": null, "activity": null, "height_cm": null, "weight_kg": null,
+  "health_conditions_and_care_plan": null, "medications": null, "supplements_name_dose_unit_frequency": null,
+  "allergies_and_cross_contact": null, "intolerances_and_tolerance": null, "other_exclusions": null,
+  "preferences": null, "religious_pattern": null, "budget_currency_scope": null,
+  "equipment_and_storage": null, "cooking_minutes_total": null, "availability_and_dining_out": null,
+  "days_meals_and_household": null, "consent_scope_location": null, "confirmed_at": {},
+  "feedback": [], "previous_versions": []
+}

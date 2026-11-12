@@ -1,0 +1,1836 @@
+{"from": "E-bea086094d596e95", "relation": "推荐做法", "to": "E-f56cf4b992689e3c", "claim": "ADA-001"}
+{"from": "ADA-001", "relation": "主体", "to": "E-bea086094d596e95"}
+{"from": "ADA-001", "relation": "客体", "to": "E-f56cf4b992689e3c"}
+{"from": "ADA-001", "relation": "来源", "to": "ADA"}
+{"from": "ADA-001", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-001", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-001", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "ADA-001", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-53fcc5a1179e081e", "relation": "区别于", "to": "E-f43cb064f8b35e0b", "claim": "ADA-002"}
+{"from": "ADA-002", "relation": "主体", "to": "E-53fcc5a1179e081e"}
+{"from": "ADA-002", "relation": "客体", "to": "E-f43cb064f8b35e0b"}
+{"from": "ADA-002", "relation": "来源", "to": "ADA"}
+{"from": "ADA-002", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-002", "relation": "适用人群", "to": "E-aa683f10fd7dcea7"}
+{"from": "ADA-002", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-002", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "E-0ce945be04e763f2", "relation": "可用于", "to": "E-e43b1e397a6fb2b2", "claim": "ADA-003"}
+{"from": "ADA-003", "relation": "主体", "to": "E-0ce945be04e763f2"}
+{"from": "ADA-003", "relation": "客体", "to": "E-e43b1e397a6fb2b2"}
+{"from": "ADA-003", "relation": "来源", "to": "ADA"}
+{"from": "ADA-003", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-003", "relation": "场景", "to": "E-b94f04911c2c90ed"}
+{"from": "ADA-003", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-411da81697cfa40c", "relation": "历史推荐", "to": "E-d5a9ede1ddd93816", "claim": "ADA-004"}
+{"from": "ADA-004", "relation": "主体", "to": "E-411da81697cfa40c"}
+{"from": "ADA-004", "relation": "客体", "to": "E-d5a9ede1ddd93816"}
+{"from": "ADA-004", "relation": "来源", "to": "ADA"}
+{"from": "ADA-004", "relation": "适用人群", "to": "E-e011fde836cb7ce4"}
+{"from": "ADA-004", "relation": "场景", "to": "E-4cd45cfff0558d6d"}
+{"from": "ADA-004", "relation": "场景", "to": "E-9ac31f3249118f7e"}
+{"from": "E-66add665574e03c6", "relation": "历史推荐", "to": "E-df75117afd987f6d", "claim": "ADA-005"}
+{"from": "ADA-005", "relation": "主体", "to": "E-66add665574e03c6"}
+{"from": "ADA-005", "relation": "客体", "to": "E-df75117afd987f6d"}
+{"from": "ADA-005", "relation": "来源", "to": "ADA"}
+{"from": "ADA-005", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-005", "relation": "适用人群", "to": "E-411b24943544d1de"}
+{"from": "ADA-005", "relation": "适用人群", "to": "E-cb12d4b7c5eaa772"}
+{"from": "ADA-005", "relation": "场景", "to": "E-4e98daedc20d0f27"}
+{"from": "ADA-005", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "ADA-005", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "E-ff241b436a065d3c", "relation": "反映", "to": "E-b22a514fc316681b", "claim": "ADA-006"}
+{"from": "ADA-006", "relation": "主体", "to": "E-ff241b436a065d3c"}
+{"from": "ADA-006", "relation": "客体", "to": "E-b22a514fc316681b"}
+{"from": "ADA-006", "relation": "来源", "to": "ADA"}
+{"from": "ADA-006", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-006", "relation": "场景", "to": "E-38f7c7e22faf477b"}
+{"from": "ADA-006", "relation": "场景", "to": "E-27d15a9617a63062"}
+{"from": "E-1c3536e7fe67d003", "relation": "受影响于", "to": "E-e10dee147e511019", "claim": "ADA-007"}
+{"from": "ADA-007", "relation": "主体", "to": "E-1c3536e7fe67d003"}
+{"from": "ADA-007", "relation": "客体", "to": "E-e10dee147e511019"}
+{"from": "ADA-007", "relation": "来源", "to": "ADA"}
+{"from": "ADA-007", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-007", "relation": "适用人群", "to": "E-cb12d4b7c5eaa772"}
+{"from": "ADA-007", "relation": "适用人群", "to": "E-8b16e20f599278fd"}
+{"from": "ADA-007", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-007", "relation": "场景", "to": "E-38f7c7e22faf477b"}
+{"from": "ADA-007", "relation": "场景", "to": "E-039ddc0cc52becb7"}
+{"from": "E-f7d50d0aac35b5ed", "relation": "区别于", "to": "E-9459d99f6e3b4043", "claim": "ADA-008"}
+{"from": "ADA-008", "relation": "主体", "to": "E-f7d50d0aac35b5ed"}
+{"from": "ADA-008", "relation": "客体", "to": "E-9459d99f6e3b4043"}
+{"from": "ADA-008", "relation": "来源", "to": "ADA"}
+{"from": "ADA-008", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-008", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-008", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "ADA-008", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-48ab42d667419cc4", "relation": "需要审查", "to": "E-6e19a2310a89daec", "claim": "ADA-009"}
+{"from": "ADA-009", "relation": "主体", "to": "E-48ab42d667419cc4"}
+{"from": "ADA-009", "relation": "客体", "to": "E-6e19a2310a89daec"}
+{"from": "ADA-009", "relation": "来源", "to": "ADA"}
+{"from": "ADA-009", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-009", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "ADA-009", "relation": "场景", "to": "E-b94f04911c2c90ed"}
+{"from": "E-1edacad29381e7ea", "relation": "历史推荐", "to": "E-9cc2031234e360ba", "claim": "ADA-010"}
+{"from": "ADA-010", "relation": "主体", "to": "E-1edacad29381e7ea"}
+{"from": "ADA-010", "relation": "客体", "to": "E-9cc2031234e360ba"}
+{"from": "ADA-010", "relation": "来源", "to": "ADA"}
+{"from": "ADA-010", "relation": "适用人群", "to": "E-3cf3b339c35eb364"}
+{"from": "ADA-010", "relation": "场景", "to": "E-d1cb6ec4c8f09de2"}
+{"from": "ADA-010", "relation": "场景", "to": "E-4cd45cfff0558d6d"}
+{"from": "E-6173d8e897058479", "relation": "可能影响", "to": "E-32b2ff04a78c5b09", "claim": "ADA-011"}
+{"from": "ADA-011", "relation": "主体", "to": "E-6173d8e897058479"}
+{"from": "ADA-011", "relation": "客体", "to": "E-32b2ff04a78c5b09"}
+{"from": "ADA-011", "relation": "来源", "to": "ADA"}
+{"from": "ADA-011", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-011", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "ADA-011", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "E-29b4b669cc900e2b", "relation": "区别于", "to": "E-99e6094f85761ac5", "claim": "ADA-012"}
+{"from": "ADA-012", "relation": "主体", "to": "E-29b4b669cc900e2b"}
+{"from": "ADA-012", "relation": "客体", "to": "E-99e6094f85761ac5"}
+{"from": "ADA-012", "relation": "来源", "to": "ADA"}
+{"from": "ADA-012", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-012", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-012", "relation": "场景", "to": "E-d1cb6ec4c8f09de2"}
+{"from": "E-3960f59a69b71c51", "relation": "需要关注", "to": "E-c536960b3ec7d1d7", "claim": "ADA-013"}
+{"from": "ADA-013", "relation": "主体", "to": "E-3960f59a69b71c51"}
+{"from": "ADA-013", "relation": "客体", "to": "E-c536960b3ec7d1d7"}
+{"from": "ADA-013", "relation": "来源", "to": "ADA"}
+{"from": "ADA-013", "relation": "适用人群", "to": "E-1505713f4b4321f5"}
+{"from": "ADA-013", "relation": "场景", "to": "E-bdbf0842b4db4fde"}
+{"from": "ADA-013", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-ee350e6ef5dd4dda", "relation": "不能直接继承", "to": "E-b8cbc3bae5e0258e", "claim": "ADA-014"}
+{"from": "ADA-014", "relation": "主体", "to": "E-ee350e6ef5dd4dda"}
+{"from": "ADA-014", "relation": "客体", "to": "E-b8cbc3bae5e0258e"}
+{"from": "ADA-014", "relation": "来源", "to": "ADA"}
+{"from": "ADA-014", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-014", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "ADA-014", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "E-80b95c9526874a55", "relation": "需要关注", "to": "E-5e5d2a50a161a445", "claim": "ADA-015"}
+{"from": "ADA-015", "relation": "主体", "to": "E-80b95c9526874a55"}
+{"from": "ADA-015", "relation": "客体", "to": "E-5e5d2a50a161a445"}
+{"from": "ADA-015", "relation": "来源", "to": "ADA"}
+{"from": "ADA-015", "relation": "适用人群", "to": "E-3384b4dbec04f88e"}
+{"from": "ADA-015", "relation": "适用人群", "to": "E-cb12d4b7c5eaa772"}
+{"from": "ADA-015", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "ADA-015", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "E-2a88723ed115703f", "relation": "可促进吸收", "to": "E-679916db280fcbbf", "claim": "ADA-016"}
+{"from": "ADA-016", "relation": "主体", "to": "E-2a88723ed115703f"}
+{"from": "ADA-016", "relation": "客体", "to": "E-679916db280fcbbf"}
+{"from": "ADA-016", "relation": "来源", "to": "ADA"}
+{"from": "ADA-016", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-016", "relation": "适用人群", "to": "E-0bfbb1b409017925"}
+{"from": "ADA-016", "relation": "场景", "to": "E-7208ebf0099c8cf9"}
+{"from": "ADA-016", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-016", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-c7d9445858c5f204", "relation": "应比较", "to": "E-38fb5eb077c254de", "claim": "ADA-017"}
+{"from": "ADA-017", "relation": "主体", "to": "E-c7d9445858c5f204"}
+{"from": "ADA-017", "relation": "客体", "to": "E-38fb5eb077c254de"}
+{"from": "ADA-017", "relation": "来源", "to": "ADA"}
+{"from": "ADA-017", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-017", "relation": "适用人群", "to": "E-aa5cd2f691fbf92f"}
+{"from": "ADA-017", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "ADA-017", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "E-f25d71f77b3f7161", "relation": "不等于", "to": "E-cd639264cff078c5", "claim": "ADA-018"}
+{"from": "ADA-018", "relation": "主体", "to": "E-f25d71f77b3f7161"}
+{"from": "ADA-018", "relation": "客体", "to": "E-cd639264cff078c5"}
+{"from": "ADA-018", "relation": "来源", "to": "ADA"}
+{"from": "ADA-018", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-018", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-018", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "E-536cc0cac993d322", "relation": "可能引起", "to": "E-8cc8f1fb1047fb0b", "claim": "ADA-019"}
+{"from": "ADA-019", "relation": "主体", "to": "E-536cc0cac993d322"}
+{"from": "ADA-019", "relation": "客体", "to": "E-8cc8f1fb1047fb0b"}
+{"from": "ADA-019", "relation": "来源", "to": "ADA"}
+{"from": "ADA-019", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-019", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-019", "relation": "场景", "to": "E-b94f04911c2c90ed"}
+{"from": "E-2ecb3d4746cd651e", "relation": "保留", "to": "E-ebb174ea4a5627f0", "claim": "ADA-020"}
+{"from": "ADA-020", "relation": "主体", "to": "E-2ecb3d4746cd651e"}
+{"from": "ADA-020", "relation": "客体", "to": "E-ebb174ea4a5627f0"}
+{"from": "ADA-020", "relation": "来源", "to": "ADA"}
+{"from": "ADA-020", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-020", "relation": "场景", "to": "E-8dcada3f60f139c5"}
+{"from": "ADA-020", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-020", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "E-fc9f74f67156248f", "relation": "推荐做法", "to": "E-a6dcabf00fb6d1c1", "claim": "ADA-021"}
+{"from": "ADA-021", "relation": "主体", "to": "E-fc9f74f67156248f"}
+{"from": "ADA-021", "relation": "客体", "to": "E-a6dcabf00fb6d1c1"}
+{"from": "ADA-021", "relation": "来源", "to": "ADA"}
+{"from": "ADA-021", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-021", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-021", "relation": "场景", "to": "E-b94f04911c2c90ed"}
+{"from": "ADA-021", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-8121bcd3427307f9", "relation": "可能改变", "to": "E-9d8d4fd6bdd45d83", "claim": "ADA-022"}
+{"from": "ADA-022", "relation": "主体", "to": "E-8121bcd3427307f9"}
+{"from": "ADA-022", "relation": "客体", "to": "E-9d8d4fd6bdd45d83"}
+{"from": "ADA-022", "relation": "来源", "to": "ADA"}
+{"from": "ADA-022", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-022", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "ADA-022", "relation": "场景", "to": "E-1f88337baf2604f1"}
+{"from": "E-619e9662e086a9c9", "relation": "可能减少", "to": "E-b28f8a3e5cfac186", "claim": "ADA-023"}
+{"from": "ADA-023", "relation": "主体", "to": "E-619e9662e086a9c9"}
+{"from": "ADA-023", "relation": "客体", "to": "E-b28f8a3e5cfac186"}
+{"from": "ADA-023", "relation": "来源", "to": "ADA"}
+{"from": "ADA-023", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-023", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "ADA-023", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "ADA-023", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-f9c0f5520c357db5", "relation": "可提供", "to": "E-4caaa19adda966a5", "claim": "ADA-024"}
+{"from": "ADA-024", "relation": "主体", "to": "E-f9c0f5520c357db5"}
+{"from": "ADA-024", "relation": "客体", "to": "E-4caaa19adda966a5"}
+{"from": "ADA-024", "relation": "来源", "to": "ADA"}
+{"from": "ADA-024", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-024", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-024", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "ADA-024", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-fb28deaf3b0bc735", "relation": "适用受限于", "to": "E-51e01e48e9aab2bb", "claim": "ADA-025"}
+{"from": "ADA-025", "relation": "主体", "to": "E-fb28deaf3b0bc735"}
+{"from": "ADA-025", "relation": "客体", "to": "E-51e01e48e9aab2bb"}
+{"from": "ADA-025", "relation": "来源", "to": "ADA"}
+{"from": "ADA-025", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-025", "relation": "适用人群", "to": "E-18889cbd95f57cd5"}
+{"from": "ADA-025", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "ADA-025", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "E-6397d86c65fb7fcb", "relation": "推荐做法", "to": "E-2975dfe0c91e2b9d", "claim": "ADA-026"}
+{"from": "ADA-026", "relation": "主体", "to": "E-6397d86c65fb7fcb"}
+{"from": "ADA-026", "relation": "客体", "to": "E-2975dfe0c91e2b9d"}
+{"from": "ADA-026", "relation": "来源", "to": "ADA"}
+{"from": "ADA-026", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-026", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "ADA-026", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "ADA-026", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-33f918e8f6e23673", "relation": "包含", "to": "E-4dcf8eaaa7df7433", "claim": "ADA-027"}
+{"from": "ADA-027", "relation": "主体", "to": "E-33f918e8f6e23673"}
+{"from": "ADA-027", "relation": "客体", "to": "E-4dcf8eaaa7df7433"}
+{"from": "ADA-027", "relation": "来源", "to": "ADA"}
+{"from": "ADA-027", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-027", "relation": "场景", "to": "E-a9d130d79595672c"}
+{"from": "ADA-027", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "ADA-027", "relation": "场景", "to": "E-f648d6712cf804d1"}
+{"from": "E-cfe52f974b2156c7", "relation": "需要核验", "to": "E-f6a44902293cd2f0", "claim": "ADA-028"}
+{"from": "ADA-028", "relation": "主体", "to": "E-cfe52f974b2156c7"}
+{"from": "ADA-028", "relation": "客体", "to": "E-f6a44902293cd2f0"}
+{"from": "ADA-028", "relation": "来源", "to": "ADA"}
+{"from": "ADA-028", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-028", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "ADA-028", "relation": "场景", "to": "E-4e98daedc20d0f27"}
+{"from": "ADA-028", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "E-6be8d5bf5a8af79c", "relation": "烹饪上可替换为", "to": "E-392562f3b9a0f169", "claim": "ADA-029"}
+{"from": "ADA-029", "relation": "主体", "to": "E-6be8d5bf5a8af79c"}
+{"from": "ADA-029", "relation": "客体", "to": "E-392562f3b9a0f169"}
+{"from": "ADA-029", "relation": "来源", "to": "ADA"}
+{"from": "ADA-029", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-029", "relation": "适用人群", "to": "E-b93fda9a36264c78"}
+{"from": "ADA-029", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-029", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "ADA-029", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "E-ca5b37a33211fcb6", "relation": "评价取决于", "to": "E-488ee81b0907e00c", "claim": "ADA-030"}
+{"from": "ADA-030", "relation": "主体", "to": "E-ca5b37a33211fcb6"}
+{"from": "ADA-030", "relation": "客体", "to": "E-488ee81b0907e00c"}
+{"from": "ADA-030", "relation": "来源", "to": "ADA"}
+{"from": "ADA-030", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-030", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-030", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "ADA-030", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "E-cd524ac345f5d6da", "relation": "可用于", "to": "E-76a6a94ed1df23d3", "claim": "ADA-031"}
+{"from": "ADA-031", "relation": "主体", "to": "E-cd524ac345f5d6da"}
+{"from": "ADA-031", "relation": "客体", "to": "E-76a6a94ed1df23d3"}
+{"from": "ADA-031", "relation": "来源", "to": "ADA"}
+{"from": "ADA-031", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-031", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-031", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "ADA-031", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "ADA-031", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-d265978c4ac4ba40", "relation": "区别于", "to": "E-6dfc1c0317692d79", "claim": "ADA-032"}
+{"from": "ADA-032", "relation": "主体", "to": "E-d265978c4ac4ba40"}
+{"from": "ADA-032", "relation": "客体", "to": "E-6dfc1c0317692d79"}
+{"from": "ADA-032", "relation": "来源", "to": "ADA"}
+{"from": "ADA-032", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-032", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "ADA-032", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-032", "relation": "场景", "to": "E-0ce945be04e763f2"}
+{"from": "E-29a9b5d2a98daa67", "relation": "可拆分为", "to": "E-cbf360d49e7accb1", "claim": "ADA-033"}
+{"from": "ADA-033", "relation": "主体", "to": "E-29a9b5d2a98daa67"}
+{"from": "ADA-033", "relation": "客体", "to": "E-cbf360d49e7accb1"}
+{"from": "ADA-033", "relation": "来源", "to": "ADA"}
+{"from": "ADA-033", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-033", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "ADA-033", "relation": "场景", "to": "E-0ce945be04e763f2"}
+{"from": "ADA-033", "relation": "场景", "to": "E-7b50017ae47eca32"}
+{"from": "E-40571fda96ae6d50", "relation": "推荐做法", "to": "E-7c78bf4242a281d6", "claim": "ADA-034"}
+{"from": "ADA-034", "relation": "主体", "to": "E-40571fda96ae6d50"}
+{"from": "ADA-034", "relation": "客体", "to": "E-7c78bf4242a281d6"}
+{"from": "ADA-034", "relation": "来源", "to": "ADA"}
+{"from": "ADA-034", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-034", "relation": "适用人群", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-034", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-034", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "ADA-034", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "E-9eda0ff70010b8cf", "relation": "推荐做法", "to": "E-ed4db087fb66e13c", "claim": "ADA-035"}
+{"from": "ADA-035", "relation": "主体", "to": "E-9eda0ff70010b8cf"}
+{"from": "ADA-035", "relation": "客体", "to": "E-ed4db087fb66e13c"}
+{"from": "ADA-035", "relation": "来源", "to": "ADA"}
+{"from": "ADA-035", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-035", "relation": "适用人群", "to": "E-4b3b5b171cda3810"}
+{"from": "ADA-035", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "ADA-035", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "ADA-035", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "E-03b618cd4cc96d68", "relation": "可用于识别", "to": "E-de0d0a81f17c7e05", "claim": "ADA-036"}
+{"from": "ADA-036", "relation": "主体", "to": "E-03b618cd4cc96d68"}
+{"from": "ADA-036", "relation": "客体", "to": "E-de0d0a81f17c7e05"}
+{"from": "ADA-036", "relation": "来源", "to": "ADA"}
+{"from": "ADA-036", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-036", "relation": "适用人群", "to": "E-bba5eb94700ec4a8"}
+{"from": "ADA-036", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-036", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "ADA-036", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-d9b0431ba27cda7d", "relation": "历史术语混用", "to": "E-0f30858c2d64ec7e", "claim": "ADA-037"}
+{"from": "ADA-037", "relation": "主体", "to": "E-d9b0431ba27cda7d"}
+{"from": "ADA-037", "relation": "客体", "to": "E-0f30858c2d64ec7e"}
+{"from": "ADA-037", "relation": "来源", "to": "ADA"}
+{"from": "ADA-037", "relation": "适用人群", "to": "E-b5f7ddaba249a820"}
+{"from": "ADA-037", "relation": "适用人群", "to": "E-d400411694fbc6b2"}
+{"from": "ADA-037", "relation": "场景", "to": "E-b88fe0a5474f1923"}
+{"from": "ADA-037", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "ADA-037", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-b85b57b86b89654d", "relation": "开封后需要", "to": "E-cb74b8401285eb78", "claim": "ADA-038"}
+{"from": "ADA-038", "relation": "主体", "to": "E-b85b57b86b89654d"}
+{"from": "ADA-038", "relation": "客体", "to": "E-cb74b8401285eb78"}
+{"from": "ADA-038", "relation": "来源", "to": "ADA"}
+{"from": "ADA-038", "relation": "适用人群", "to": "E-5c6b56d5ce0af791"}
+{"from": "ADA-038", "relation": "场景", "to": "E-d276384cbb223591"}
+{"from": "ADA-038", "relation": "场景", "to": "E-85a7226a9aa6b1db"}
+{"from": "ADA-038", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "E-460ee6ce53718df3", "relation": "可选用", "to": "E-0a079335e1033ea4", "claim": "ADA-039"}
+{"from": "ADA-039", "relation": "主体", "to": "E-460ee6ce53718df3"}
+{"from": "ADA-039", "relation": "客体", "to": "E-0a079335e1033ea4"}
+{"from": "ADA-039", "relation": "来源", "to": "ADA"}
+{"from": "ADA-039", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-039", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "ADA-039", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "ADA-039", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "E-963c1835a1214804", "relation": "应分开于", "to": "E-fb6f3c86e0e6a9f3", "claim": "ADA-040"}
+{"from": "ADA-040", "relation": "主体", "to": "E-963c1835a1214804"}
+{"from": "ADA-040", "relation": "客体", "to": "E-fb6f3c86e0e6a9f3"}
+{"from": "ADA-040", "relation": "来源", "to": "ADA"}
+{"from": "ADA-040", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-040", "relation": "适用人群", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-040", "relation": "场景", "to": "E-e3359e7caeef7c0f"}
+{"from": "ADA-040", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-bf92328635bb5222", "relation": "推荐做法", "to": "E-60d22e1b17ad7d1f", "claim": "ADA-041"}
+{"from": "ADA-041", "relation": "主体", "to": "E-bf92328635bb5222"}
+{"from": "ADA-041", "relation": "客体", "to": "E-60d22e1b17ad7d1f"}
+{"from": "ADA-041", "relation": "来源", "to": "ADA"}
+{"from": "ADA-041", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-041", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-041", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "ADA-041", "relation": "场景", "to": "E-e3359e7caeef7c0f"}
+{"from": "E-8354f62d25204d47", "relation": "已隔离的历史建议", "to": "E-72e96f3da633b079", "claim": "ADA-042"}
+{"from": "ADA-042", "relation": "主体", "to": "E-8354f62d25204d47"}
+{"from": "ADA-042", "relation": "客体", "to": "E-72e96f3da633b079"}
+{"from": "ADA-042", "relation": "来源", "to": "ADA"}
+{"from": "ADA-042", "relation": "适用人群", "to": "E-dd1eabd9f0ef7e72"}
+{"from": "ADA-042", "relation": "场景", "to": "E-e3359e7caeef7c0f"}
+{"from": "ADA-042", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "ADA-042", "relation": "场景", "to": "E-45fb956103636ea6"}
+{"from": "E-535423ec4787c94e", "relation": "需要", "to": "E-4c7d9acf5c59fa99", "claim": "ADA-043"}
+{"from": "ADA-043", "relation": "主体", "to": "E-535423ec4787c94e"}
+{"from": "ADA-043", "relation": "客体", "to": "E-4c7d9acf5c59fa99"}
+{"from": "ADA-043", "relation": "来源", "to": "ADA"}
+{"from": "ADA-043", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-043", "relation": "场景", "to": "E-85a7226a9aa6b1db"}
+{"from": "ADA-043", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "ADA-043", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "ADA-043", "relation": "场景", "to": "E-d276384cbb223591"}
+{"from": "ADA-043", "relation": "场景", "to": "E-d276384cbb223591"}
+{"from": "E-1834fd84ed0c294f", "relation": "需评估", "to": "E-f744606a79f69dac", "claim": "ADA-044"}
+{"from": "ADA-044", "relation": "主体", "to": "E-1834fd84ed0c294f"}
+{"from": "ADA-044", "relation": "客体", "to": "E-f744606a79f69dac"}
+{"from": "ADA-044", "relation": "来源", "to": "ADA"}
+{"from": "ADA-044", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-044", "relation": "适用人群", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-044", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-044", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "ADA-044", "relation": "场景", "to": "E-9565a27d3ceb4428"}
+{"from": "E-6b8868a331d054df", "relation": "推荐做法", "to": "E-976cb6803eee2751", "claim": "ADA-045"}
+{"from": "ADA-045", "relation": "主体", "to": "E-6b8868a331d054df"}
+{"from": "ADA-045", "relation": "客体", "to": "E-976cb6803eee2751"}
+{"from": "ADA-045", "relation": "来源", "to": "ADA"}
+{"from": "ADA-045", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-045", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "ADA-045", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "ADA-045", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "E-31568575ee2e20c2", "relation": "可采用", "to": "E-e2f20d2a0a83b5c2", "claim": "ADA-046"}
+{"from": "ADA-046", "relation": "主体", "to": "E-31568575ee2e20c2"}
+{"from": "ADA-046", "relation": "客体", "to": "E-e2f20d2a0a83b5c2"}
+{"from": "ADA-046", "relation": "来源", "to": "ADA"}
+{"from": "ADA-046", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "ADA-046", "relation": "适用人群", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-046", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "ADA-046", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "ADA-046", "relation": "场景", "to": "E-1eebcd3161a7c2e0"}
+{"from": "E-d276384cbb223591", "relation": "推荐组合", "to": "E-b48a5bbb5168df09", "claim": "APP-001"}
+{"from": "APP-001", "relation": "主体", "to": "E-d276384cbb223591"}
+{"from": "APP-001", "relation": "客体", "to": "E-b48a5bbb5168df09"}
+{"from": "APP-001", "relation": "来源", "to": "APP"}
+{"from": "APP-001", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "APP-001", "relation": "适用人群", "to": "E-a9d332aec5ffe9f5"}
+{"from": "APP-001", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "APP-001", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "APP-001", "relation": "场景", "to": "E-d276384cbb223591"}
+{"from": "APP-001", "relation": "场景", "to": "E-b57a56700f52acaf"}
+{"from": "APP-001", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "APP-001", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "APP-001", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "APP-001", "relation": "参见", "to": "CN-019"}
+{"from": "APP-001", "relation": "参见", "to": "CN-020"}
+{"from": "APP-001", "relation": "参见", "to": "ADA-038"}
+{"from": "APP-001", "relation": "参见", "to": "ADA-043"}
+{"from": "APP-001", "relation": "参见", "to": "EXT-016"}
+{"from": "E-c45bc4b3953b33f2", "relation": "推荐做法", "to": "E-a908a9ad56b6a9f6", "claim": "APP-002"}
+{"from": "APP-002", "relation": "主体", "to": "E-c45bc4b3953b33f2"}
+{"from": "APP-002", "relation": "客体", "to": "E-a908a9ad56b6a9f6"}
+{"from": "APP-002", "relation": "来源", "to": "APP"}
+{"from": "APP-002", "relation": "适用人群", "to": "E-321b590a3b5ac41c"}
+{"from": "APP-002", "relation": "适用人群", "to": "E-e256eb8957bd4877"}
+{"from": "APP-002", "relation": "适用人群", "to": "E-0fd6889156f2fc06"}
+{"from": "APP-002", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "APP-002", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "APP-002", "relation": "场景", "to": "E-b88fe0a5474f1923"}
+{"from": "APP-002", "relation": "场景", "to": "E-777dff6b82614f8d"}
+{"from": "APP-002", "relation": "参见", "to": "CN-024"}
+{"from": "APP-002", "relation": "参见", "to": "CN-025"}
+{"from": "APP-002", "relation": "参见", "to": "EXT-009"}
+{"from": "APP-002", "relation": "参见", "to": "EXT-013"}
+{"from": "APP-002", "relation": "参见", "to": "EXT-020"}
+{"from": "APP-002", "relation": "参见", "to": "EXT-031"}
+{"from": "E-a3e9c03d7502abbd", "relation": "需要", "to": "E-23d9491f7e04c309", "claim": "APP-003"}
+{"from": "APP-003", "relation": "主体", "to": "E-a3e9c03d7502abbd"}
+{"from": "APP-003", "relation": "客体", "to": "E-23d9491f7e04c309"}
+{"from": "APP-003", "relation": "来源", "to": "APP"}
+{"from": "APP-003", "relation": "适用人群", "to": "E-40dee975e3f4291f"}
+{"from": "APP-003", "relation": "适用人群", "to": "E-ed3034b5c13eae8c"}
+{"from": "APP-003", "relation": "场景", "to": "E-efeda72607e22e92"}
+{"from": "APP-003", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "APP-003", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "APP-003", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "APP-003", "relation": "参见", "to": "CN-010"}
+{"from": "APP-003", "relation": "参见", "to": "CN-041"}
+{"from": "APP-003", "relation": "参见", "to": "CN-043"}
+{"from": "APP-003", "relation": "参见", "to": "EXT-020"}
+{"from": "APP-003", "relation": "参见", "to": "EXT-031"}
+{"from": "E-a309251a68621a01", "relation": "推荐搭配", "to": "E-eb76f8431e1f36b1", "claim": "APP-004"}
+{"from": "APP-004", "relation": "主体", "to": "E-a309251a68621a01"}
+{"from": "APP-004", "relation": "客体", "to": "E-eb76f8431e1f36b1"}
+{"from": "APP-004", "relation": "来源", "to": "APP"}
+{"from": "APP-004", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "APP-004", "relation": "适用人群", "to": "E-885d75c757dfcb3c"}
+{"from": "APP-004", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "APP-004", "relation": "场景", "to": "E-07161a3bf2c5938e"}
+{"from": "APP-004", "relation": "场景", "to": "E-16bdb584a9eb8081"}
+{"from": "APP-004", "relation": "场景", "to": "E-6df3aa1cca6004ff"}
+{"from": "APP-004", "relation": "参见", "to": "ADA-034"}
+{"from": "APP-004", "relation": "参见", "to": "ADA-041"}
+{"from": "APP-004", "relation": "参见", "to": "EXT-016"}
+{"from": "APP-004", "relation": "参见", "to": "CN-023"}
+{"from": "E-4d515865f7857167", "relation": "需要", "to": "E-4f9518abcddd7d70", "claim": "APP-005"}
+{"from": "APP-005", "relation": "主体", "to": "E-4d515865f7857167"}
+{"from": "APP-005", "relation": "客体", "to": "E-4f9518abcddd7d70"}
+{"from": "APP-005", "relation": "来源", "to": "APP"}
+{"from": "APP-005", "relation": "适用人群", "to": "E-cb12d4b7c5eaa772"}
+{"from": "APP-005", "relation": "适用人群", "to": "E-8b16e20f599278fd"}
+{"from": "APP-005", "relation": "适用人群", "to": "E-15ccde51b4c133b9"}
+{"from": "APP-005", "relation": "适用人群", "to": "E-e7118dbe67b3bdab"}
+{"from": "APP-005", "relation": "场景", "to": "E-bc811c8bd599d1f3"}
+{"from": "APP-005", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "APP-005", "relation": "场景", "to": "E-ac28ae5aac904394"}
+{"from": "APP-005", "relation": "参见", "to": "EXT-018"}
+{"from": "APP-005", "relation": "参见", "to": "EXT-025"}
+{"from": "APP-005", "relation": "参见", "to": "EXT-026"}
+{"from": "APP-005", "relation": "参见", "to": "EXT-027"}
+{"from": "APP-005", "relation": "参见", "to": "CN-040"}
+{"from": "E-0ce945be04e763f2", "relation": "用于", "to": "E-f78a1dffb07e9fd5", "claim": "APP-006"}
+{"from": "APP-006", "relation": "主体", "to": "E-0ce945be04e763f2"}
+{"from": "APP-006", "relation": "客体", "to": "E-f78a1dffb07e9fd5"}
+{"from": "APP-006", "relation": "来源", "to": "APP"}
+{"from": "APP-006", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "APP-006", "relation": "场景", "to": "E-8b2106ca13719cb2"}
+{"from": "APP-006", "relation": "场景", "to": "E-0ce945be04e763f2"}
+{"from": "APP-006", "relation": "场景", "to": "E-7b50017ae47eca32"}
+{"from": "APP-006", "relation": "参见", "to": "ADA-003"}
+{"from": "APP-006", "relation": "参见", "to": "HAR-004"}
+{"from": "APP-006", "relation": "参见", "to": "HAR-005"}
+{"from": "APP-006", "relation": "参见", "to": "EXT-022"}
+{"from": "E-3a6c186143f08439", "relation": "适用于", "to": "E-c88d6ded7aa41bcd", "claim": "CN-001"}
+{"from": "CN-001", "relation": "主体", "to": "E-3a6c186143f08439"}
+{"from": "CN-001", "relation": "客体", "to": "E-c88d6ded7aa41bcd"}
+{"from": "CN-001", "relation": "来源", "to": "CN"}
+{"from": "CN-001", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-001", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-001", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-001", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-001", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-280ec0029a9c8787", "relation": "推荐做法", "to": "E-0a9d9fddb9a084d5", "claim": "CN-002"}
+{"from": "CN-002", "relation": "主体", "to": "E-280ec0029a9c8787"}
+{"from": "CN-002", "relation": "客体", "to": "E-0a9d9fddb9a084d5"}
+{"from": "CN-002", "relation": "来源", "to": "CN"}
+{"from": "CN-002", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-002", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-002", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-002", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-002", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-a8b4b3d65a787ee0", "relation": "推荐摄入范围", "to": "E-c5c1b95cd23557b6", "claim": "CN-003"}
+{"from": "CN-003", "relation": "主体", "to": "E-a8b4b3d65a787ee0"}
+{"from": "CN-003", "relation": "客体", "to": "E-c5c1b95cd23557b6"}
+{"from": "CN-003", "relation": "来源", "to": "CN"}
+{"from": "CN-003", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-003", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-003", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-003", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-d7ee8737286f92de", "relation": "有助于落实", "to": "E-280ec0029a9c8787", "claim": "CN-004"}
+{"from": "CN-004", "relation": "主体", "to": "E-d7ee8737286f92de"}
+{"from": "CN-004", "relation": "客体", "to": "E-280ec0029a9c8787"}
+{"from": "CN-004", "relation": "来源", "to": "CN"}
+{"from": "CN-004", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-004", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-004", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-004", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-004", "relation": "场景", "to": "E-180c7b13bd972c43"}
+{"from": "E-2ecb3d4746cd651e", "relation": "观察关联", "to": "E-0d91f3930b4aec66", "claim": "CN-005"}
+{"from": "CN-005", "relation": "主体", "to": "E-2ecb3d4746cd651e"}
+{"from": "CN-005", "relation": "客体", "to": "E-0d91f3930b4aec66"}
+{"from": "CN-005", "relation": "来源", "to": "CN"}
+{"from": "CN-005", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-005", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "CN-005", "relation": "场景", "to": "E-7d74b2c1d095d86e"}
+{"from": "E-e80a801c707ca4d0", "relation": "取决于", "to": "E-2b57ac8aaf15901d", "claim": "CN-006"}
+{"from": "CN-006", "relation": "主体", "to": "E-e80a801c707ca4d0"}
+{"from": "CN-006", "relation": "客体", "to": "E-2b57ac8aaf15901d"}
+{"from": "CN-006", "relation": "来源", "to": "CN"}
+{"from": "CN-006", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-006", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-006", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-006", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-eb8380a9846591af", "relation": "推荐摄入范围", "to": "E-2ad5aa1f7cba55eb", "claim": "CN-007"}
+{"from": "CN-007", "relation": "主体", "to": "E-eb8380a9846591af"}
+{"from": "CN-007", "relation": "客体", "to": "E-2ad5aa1f7cba55eb"}
+{"from": "CN-007", "relation": "来源", "to": "CN"}
+{"from": "CN-007", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-007", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-007", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-007", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-3e624b4a75c8b32e", "relation": "推荐优先于", "to": "E-64c25f038caae862", "claim": "CN-008"}
+{"from": "CN-008", "relation": "主体", "to": "E-3e624b4a75c8b32e"}
+{"from": "CN-008", "relation": "客体", "to": "E-64c25f038caae862"}
+{"from": "CN-008", "relation": "来源", "to": "CN"}
+{"from": "CN-008", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-008", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-008", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-008", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-691e3269daa99bac", "relation": "推荐摄入范围", "to": "E-1415877f95ef9943", "claim": "CN-009"}
+{"from": "CN-009", "relation": "主体", "to": "E-691e3269daa99bac"}
+{"from": "CN-009", "relation": "客体", "to": "E-1415877f95ef9943"}
+{"from": "CN-009", "relation": "来源", "to": "CN"}
+{"from": "CN-009", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-009", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-009", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-009", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-e6a162c5f2551a90", "relation": "可尝试", "to": "E-2d12ad5f9b41f25e", "claim": "CN-010"}
+{"from": "CN-010", "relation": "主体", "to": "E-e6a162c5f2551a90"}
+{"from": "CN-010", "relation": "客体", "to": "E-2d12ad5f9b41f25e"}
+{"from": "CN-010", "relation": "来源", "to": "CN"}
+{"from": "CN-010", "relation": "适用人群", "to": "E-6d5d6d26db7763f4"}
+{"from": "CN-010", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-010", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-010", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-02c69fe750d5e0d8", "relation": "推荐摄入范围", "to": "E-21cff15a3a482f83", "claim": "CN-011"}
+{"from": "CN-011", "relation": "主体", "to": "E-02c69fe750d5e0d8"}
+{"from": "CN-011", "relation": "客体", "to": "E-21cff15a3a482f83"}
+{"from": "CN-011", "relation": "来源", "to": "CN"}
+{"from": "CN-011", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-011", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-011", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-011", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-f530b753d8c10219", "relation": "推荐摄入范围", "to": "E-455aa080a55d7029", "claim": "CN-012"}
+{"from": "CN-012", "relation": "主体", "to": "E-f530b753d8c10219"}
+{"from": "CN-012", "relation": "客体", "to": "E-455aa080a55d7029"}
+{"from": "CN-012", "relation": "来源", "to": "CN"}
+{"from": "CN-012", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-012", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-012", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-012", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-e9f5b71a472d27bb", "relation": "推荐做法", "to": "E-4a19fa5995b9d7bc", "claim": "CN-013"}
+{"from": "CN-013", "relation": "主体", "to": "E-e9f5b71a472d27bb"}
+{"from": "CN-013", "relation": "客体", "to": "E-4a19fa5995b9d7bc"}
+{"from": "CN-013", "relation": "来源", "to": "CN"}
+{"from": "CN-013", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-013", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-013", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-013", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-b1dec78a9dbe9f44", "relation": "推荐摄入上限", "to": "E-5d885ce43e143a48", "claim": "CN-014"}
+{"from": "CN-014", "relation": "主体", "to": "E-b1dec78a9dbe9f44"}
+{"from": "CN-014", "relation": "客体", "to": "E-5d885ce43e143a48"}
+{"from": "CN-014", "relation": "来源", "to": "CN"}
+{"from": "CN-014", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-014", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-014", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-014", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-fe5fb1e934e7f1c7", "relation": "推荐摄入范围", "to": "E-efc7525adc1e4ff3", "claim": "CN-015"}
+{"from": "CN-015", "relation": "主体", "to": "E-fe5fb1e934e7f1c7"}
+{"from": "CN-015", "relation": "客体", "to": "E-efc7525adc1e4ff3"}
+{"from": "CN-015", "relation": "来源", "to": "CN"}
+{"from": "CN-015", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-015", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-015", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-015", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-61e74977281ace87", "relation": "建议限制", "to": "E-0ade1952c612f8ed", "claim": "CN-016"}
+{"from": "CN-016", "relation": "主体", "to": "E-61e74977281ace87"}
+{"from": "CN-016", "relation": "客体", "to": "E-0ade1952c612f8ed"}
+{"from": "CN-016", "relation": "来源", "to": "CN"}
+{"from": "CN-016", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-016", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-016", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-016", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-37d4b34623c87842", "relation": "建议限制", "to": "E-ff48c1997d4f226e", "claim": "CN-017"}
+{"from": "CN-017", "relation": "主体", "to": "E-37d4b34623c87842"}
+{"from": "CN-017", "relation": "客体", "to": "E-ff48c1997d4f226e"}
+{"from": "CN-017", "relation": "来源", "to": "CN"}
+{"from": "CN-017", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-017", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-017", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-017", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-6edae041a323d6b4", "relation": "推荐摄入量", "to": "E-3d8d1bb993ad2dab", "claim": "CN-018"}
+{"from": "CN-018", "relation": "主体", "to": "E-6edae041a323d6b4"}
+{"from": "CN-018", "relation": "客体", "to": "E-3d8d1bb993ad2dab"}
+{"from": "CN-018", "relation": "来源", "to": "CN"}
+{"from": "CN-018", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-018", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-018", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-018", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-5a0f220e79c9649b", "relation": "推荐做法", "to": "E-4a10b98a8a556719", "claim": "CN-019"}
+{"from": "CN-019", "relation": "主体", "to": "E-5a0f220e79c9649b"}
+{"from": "CN-019", "relation": "客体", "to": "E-4a10b98a8a556719"}
+{"from": "CN-019", "relation": "来源", "to": "CN"}
+{"from": "CN-019", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-019", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-019", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "CN-019", "relation": "场景", "to": "E-b57a56700f52acaf"}
+{"from": "CN-019", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "CN-019", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-a666ef05afd230e0", "relation": "推荐做法", "to": "E-9fe50b65ba74b3b1", "claim": "CN-020"}
+{"from": "CN-020", "relation": "主体", "to": "E-a666ef05afd230e0"}
+{"from": "CN-020", "relation": "客体", "to": "E-9fe50b65ba74b3b1"}
+{"from": "CN-020", "relation": "来源", "to": "CN"}
+{"from": "CN-020", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-020", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-020", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-020", "relation": "场景", "to": "E-180c7b13bd972c43"}
+{"from": "CN-020", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "CN-020", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "CN-020", "relation": "场景", "to": "E-d276384cbb223591"}
+{"from": "E-1a5bc0553725b255", "relation": "读取口径", "to": "E-0194daf7b1bd2078", "claim": "CN-021"}
+{"from": "CN-021", "relation": "主体", "to": "E-1a5bc0553725b255"}
+{"from": "CN-021", "relation": "客体", "to": "E-0194daf7b1bd2078"}
+{"from": "CN-021", "relation": "来源", "to": "CN"}
+{"from": "CN-021", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-021", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "CN-021", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "CN-021", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "E-12af22406d98e840", "relation": "推荐做法", "to": "E-598bf3289ba4353c", "claim": "CN-022"}
+{"from": "CN-022", "relation": "主体", "to": "E-12af22406d98e840"}
+{"from": "CN-022", "relation": "客体", "to": "E-598bf3289ba4353c"}
+{"from": "CN-022", "relation": "来源", "to": "CN"}
+{"from": "CN-022", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-022", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-022", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "CN-022", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-6b74610ce783abf9", "relation": "推荐做法", "to": "E-2a7d01924b247185", "claim": "CN-023"}
+{"from": "CN-023", "relation": "主体", "to": "E-6b74610ce783abf9"}
+{"from": "CN-023", "relation": "客体", "to": "E-2a7d01924b247185"}
+{"from": "CN-023", "relation": "来源", "to": "CN"}
+{"from": "CN-023", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-023", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-023", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-023", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-023", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "CN-023", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-2ef2eda33e883c3e", "relation": "推荐关注", "to": "E-6b385241766f8775", "claim": "CN-024"}
+{"from": "CN-024", "relation": "主体", "to": "E-2ef2eda33e883c3e"}
+{"from": "CN-024", "relation": "客体", "to": "E-6b385241766f8775"}
+{"from": "CN-024", "relation": "来源", "to": "CN"}
+{"from": "CN-024", "relation": "适用人群", "to": "E-365fbda48e9129e9"}
+{"from": "CN-024", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "CN-024", "relation": "场景", "to": "E-cb12d4b7c5eaa772"}
+{"from": "CN-024", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-def28dc3740f4b60", "relation": "推荐做法", "to": "E-5d7d7c1957a7299e", "claim": "CN-025"}
+{"from": "CN-025", "relation": "主体", "to": "E-def28dc3740f4b60"}
+{"from": "CN-025", "relation": "客体", "to": "E-5d7d7c1957a7299e"}
+{"from": "CN-025", "relation": "来源", "to": "CN"}
+{"from": "CN-025", "relation": "适用人群", "to": "E-c2e7bc92e85abcde"}
+{"from": "CN-025", "relation": "适用人群", "to": "E-f1427488b74ea5a7"}
+{"from": "CN-025", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "CN-025", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "E-daf6afd1ea8fc085", "relation": "可尝试", "to": "E-b0d0154949c12b16", "claim": "CN-026"}
+{"from": "CN-026", "relation": "主体", "to": "E-daf6afd1ea8fc085"}
+{"from": "CN-026", "relation": "客体", "to": "E-b0d0154949c12b16"}
+{"from": "CN-026", "relation": "来源", "to": "CN"}
+{"from": "CN-026", "relation": "适用人群", "to": "E-4f8424892974f240"}
+{"from": "CN-026", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "CN-026", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-d2dd831132f66529", "relation": "推荐调整", "to": "E-7122e12ddc3c8e6a", "claim": "CN-027"}
+{"from": "CN-027", "relation": "主体", "to": "E-d2dd831132f66529"}
+{"from": "CN-027", "relation": "客体", "to": "E-7122e12ddc3c8e6a"}
+{"from": "CN-027", "relation": "来源", "to": "CN"}
+{"from": "CN-027", "relation": "适用人群", "to": "E-39d771f1988a3f98"}
+{"from": "CN-027", "relation": "场景", "to": "E-f811e633faddde08"}
+{"from": "CN-027", "relation": "场景", "to": "E-969ff90d66ee65c2"}
+{"from": "CN-027", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-8b16e20f599278fd", "relation": "推荐做法", "to": "E-1dc57dd0acedd125", "claim": "CN-028"}
+{"from": "CN-028", "relation": "主体", "to": "E-8b16e20f599278fd"}
+{"from": "CN-028", "relation": "客体", "to": "E-1dc57dd0acedd125"}
+{"from": "CN-028", "relation": "来源", "to": "CN"}
+{"from": "CN-028", "relation": "适用人群", "to": "E-ee155b8470efeab1"}
+{"from": "CN-028", "relation": "场景", "to": "E-8b16e20f599278fd"}
+{"from": "CN-028", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-028", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-d4bf913034f96938", "relation": "推荐做法", "to": "E-7c779490daf028c4", "claim": "CN-029"}
+{"from": "CN-029", "relation": "主体", "to": "E-d4bf913034f96938"}
+{"from": "CN-029", "relation": "客体", "to": "E-7c779490daf028c4"}
+{"from": "CN-029", "relation": "来源", "to": "CN"}
+{"from": "CN-029", "relation": "适用人群", "to": "E-22c0ccf78ea28a2d"}
+{"from": "CN-029", "relation": "场景", "to": "E-a1eea56ab6a24d72"}
+{"from": "CN-029", "relation": "场景", "to": "E-012ac0a62a7327dd"}
+{"from": "E-28a9b299be18bad4", "relation": "推荐做法", "to": "E-da3e6254944fc289", "claim": "CN-030"}
+{"from": "CN-030", "relation": "主体", "to": "E-28a9b299be18bad4"}
+{"from": "CN-030", "relation": "客体", "to": "E-da3e6254944fc289"}
+{"from": "CN-030", "relation": "来源", "to": "CN"}
+{"from": "CN-030", "relation": "适用人群", "to": "E-bc149ecd74a38171"}
+{"from": "CN-030", "relation": "适用人群", "to": "E-9a5385c39388d803"}
+{"from": "CN-030", "relation": "场景", "to": "E-6869675a0a12a77f"}
+{"from": "CN-030", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-4c9fdfeb1825e057", "relation": "需要防范", "to": "E-b7aeb119700176fc", "claim": "CN-031"}
+{"from": "CN-031", "relation": "主体", "to": "E-4c9fdfeb1825e057"}
+{"from": "CN-031", "relation": "客体", "to": "E-b7aeb119700176fc"}
+{"from": "CN-031", "relation": "来源", "to": "CN"}
+{"from": "CN-031", "relation": "适用人群", "to": "E-efd618c52c6fd166"}
+{"from": "CN-031", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-031", "relation": "场景", "to": "E-3f70f003bd0735f4"}
+{"from": "E-0b2061adf0a9c408", "relation": "推荐做法", "to": "E-bdfbbdb3ea1bb13d", "claim": "CN-032"}
+{"from": "CN-032", "relation": "主体", "to": "E-0b2061adf0a9c408"}
+{"from": "CN-032", "relation": "客体", "to": "E-bdfbbdb3ea1bb13d"}
+{"from": "CN-032", "relation": "来源", "to": "CN"}
+{"from": "CN-032", "relation": "适用人群", "to": "E-7e7edbe404935324"}
+{"from": "CN-032", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-032", "relation": "场景", "to": "E-5246f67f9da53c66"}
+{"from": "E-dea0f0d9c04b3a9c", "relation": "推荐做法", "to": "E-a600262cea3ca57c", "claim": "CN-033"}
+{"from": "CN-033", "relation": "主体", "to": "E-dea0f0d9c04b3a9c"}
+{"from": "CN-033", "relation": "客体", "to": "E-a600262cea3ca57c"}
+{"from": "CN-033", "relation": "来源", "to": "CN"}
+{"from": "CN-033", "relation": "适用人群", "to": "E-d2e449617f141fe7"}
+{"from": "CN-033", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-033", "relation": "场景", "to": "E-dc6e2aafeb9e125b"}
+{"from": "CN-033", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-ef6d9fc23908a03d", "relation": "推荐做法", "to": "E-f7a9ad1010fc82c0", "claim": "CN-034"}
+{"from": "CN-034", "relation": "主体", "to": "E-ef6d9fc23908a03d"}
+{"from": "CN-034", "relation": "客体", "to": "E-f7a9ad1010fc82c0"}
+{"from": "CN-034", "relation": "来源", "to": "CN"}
+{"from": "CN-034", "relation": "适用人群", "to": "E-ef6d9fc23908a03d"}
+{"from": "CN-034", "relation": "适用人群", "to": "E-946cc0779dbaea39"}
+{"from": "CN-034", "relation": "场景", "to": "E-e7118dbe67b3bdab"}
+{"from": "CN-034", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-034", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-f88c910ec8a37299", "relation": "推荐做法", "to": "E-4201b30bfc4d3fc8", "claim": "CN-035"}
+{"from": "CN-035", "relation": "主体", "to": "E-f88c910ec8a37299"}
+{"from": "CN-035", "relation": "客体", "to": "E-4201b30bfc4d3fc8"}
+{"from": "CN-035", "relation": "来源", "to": "CN"}
+{"from": "CN-035", "relation": "适用人群", "to": "E-f88c910ec8a37299"}
+{"from": "CN-035", "relation": "适用人群", "to": "E-2bdfdb7c452585b5"}
+{"from": "CN-035", "relation": "场景", "to": "E-40c6d79555515e54"}
+{"from": "CN-035", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-035", "relation": "场景", "to": "E-cdbdbe0ecc57215d"}
+{"from": "E-4b84cfe323ffe1e1", "relation": "推荐核对", "to": "E-80032844110e8bca", "claim": "CN-036"}
+{"from": "CN-036", "relation": "主体", "to": "E-4b84cfe323ffe1e1"}
+{"from": "CN-036", "relation": "客体", "to": "E-80032844110e8bca"}
+{"from": "CN-036", "relation": "来源", "to": "CN"}
+{"from": "CN-036", "relation": "适用人群", "to": "E-050d6bb80cd96ee2"}
+{"from": "CN-036", "relation": "场景", "to": "E-1f88337baf2604f1"}
+{"from": "CN-036", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-036", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "E-d1726975d659d31e", "relation": "书中列为来源", "to": "E-c536960b3ec7d1d7", "claim": "CN-037"}
+{"from": "CN-037", "relation": "主体", "to": "E-d1726975d659d31e"}
+{"from": "CN-037", "relation": "客体", "to": "E-c536960b3ec7d1d7"}
+{"from": "CN-037", "relation": "来源", "to": "CN"}
+{"from": "CN-037", "relation": "适用人群", "to": "E-177ed070d89c1355"}
+{"from": "CN-037", "relation": "场景", "to": "E-1f88337baf2604f1"}
+{"from": "CN-037", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "CN-037", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-e05c40b67a1d0810", "relation": "成分可能包含", "to": "E-e613d2d536878ba5", "claim": "CN-038"}
+{"from": "CN-038", "relation": "主体", "to": "E-e05c40b67a1d0810"}
+{"from": "CN-038", "relation": "客体", "to": "E-e613d2d536878ba5"}
+{"from": "CN-038", "relation": "来源", "to": "CN"}
+{"from": "CN-038", "relation": "适用人群", "to": "E-1df92757d19b0ad6"}
+{"from": "CN-038", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "CN-038", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "CN-038", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "E-2c74010488e8076f", "relation": "限定于", "to": "E-266d92618682a4a8", "claim": "CN-039"}
+{"from": "CN-039", "relation": "主体", "to": "E-2c74010488e8076f"}
+{"from": "CN-039", "relation": "客体", "to": "E-266d92618682a4a8"}
+{"from": "CN-039", "relation": "来源", "to": "CN"}
+{"from": "CN-039", "relation": "适用人群", "to": "E-58d462862163a276"}
+{"from": "CN-039", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "CN-039", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-039", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-6ed5c733da3121b1", "relation": "宜结合", "to": "E-c72b4eb50583b98c", "claim": "CN-040"}
+{"from": "CN-040", "relation": "主体", "to": "E-6ed5c733da3121b1"}
+{"from": "CN-040", "relation": "客体", "to": "E-c72b4eb50583b98c"}
+{"from": "CN-040", "relation": "来源", "to": "CN"}
+{"from": "CN-040", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-040", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-040", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-040", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "CN-040", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-040", "relation": "场景", "to": "E-8b2106ca13719cb2"}
+{"from": "E-8e3dd9d06d4ba8cb", "relation": "计量基础", "to": "E-bb6fb421b0d934ea", "claim": "CN-041"}
+{"from": "CN-041", "relation": "主体", "to": "E-8e3dd9d06d4ba8cb"}
+{"from": "CN-041", "relation": "客体", "to": "E-bb6fb421b0d934ea"}
+{"from": "CN-041", "relation": "来源", "to": "CN"}
+{"from": "CN-041", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-041", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-041", "relation": "场景", "to": "E-e5b70e2d8b75f544"}
+{"from": "CN-041", "relation": "场景", "to": "E-7b50017ae47eca32"}
+{"from": "CN-041", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "CN-041", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "E-9c4b23d6a0b97bfc", "relation": "烹后重量示例", "to": "E-e233a13a49e51106", "claim": "CN-042"}
+{"from": "CN-042", "relation": "主体", "to": "E-9c4b23d6a0b97bfc"}
+{"from": "CN-042", "relation": "客体", "to": "E-e233a13a49e51106"}
+{"from": "CN-042", "relation": "来源", "to": "CN"}
+{"from": "CN-042", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-042", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-042", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "CN-042", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "CN-042", "relation": "场景", "to": "E-6e2209ed01c6fd77"}
+{"from": "E-571f79710d252094", "relation": "以蛋白质为基准换算", "to": "E-4fc10d8f397780f3", "claim": "CN-043"}
+{"from": "CN-043", "relation": "主体", "to": "E-571f79710d252094"}
+{"from": "CN-043", "relation": "客体", "to": "E-4fc10d8f397780f3"}
+{"from": "CN-043", "relation": "来源", "to": "CN"}
+{"from": "CN-043", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-043", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "CN-043", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-043", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-ced66b503a44e424", "relation": "版本限定", "to": "E-888424a356b71dc3", "claim": "CN-044"}
+{"from": "CN-044", "relation": "主体", "to": "E-ced66b503a44e424"}
+{"from": "CN-044", "relation": "客体", "to": "E-888424a356b71dc3"}
+{"from": "CN-044", "relation": "来源", "to": "CN"}
+{"from": "CN-044", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-044", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-044", "relation": "场景", "to": "E-6e2209ed01c6fd77"}
+{"from": "CN-044", "relation": "场景", "to": "E-6ecf87f778b313f4"}
+{"from": "CN-044", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "E-8c9fb7615542422e", "relation": "受研究设计限度影响", "to": "E-2f7d2ac0a70b120b", "claim": "CN-045"}
+{"from": "CN-045", "relation": "主体", "to": "E-8c9fb7615542422e"}
+{"from": "CN-045", "relation": "客体", "to": "E-2f7d2ac0a70b120b"}
+{"from": "CN-045", "relation": "来源", "to": "CN"}
+{"from": "CN-045", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-045", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-045", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "CN-045", "relation": "场景", "to": "E-7d74b2c1d095d86e"}
+{"from": "E-9931e207330c6136", "relation": "依赖换算基础", "to": "E-4095c835a962c51f", "claim": "CN-046"}
+{"from": "CN-046", "relation": "主体", "to": "E-9931e207330c6136"}
+{"from": "CN-046", "relation": "客体", "to": "E-4095c835a962c51f"}
+{"from": "CN-046", "relation": "来源", "to": "CN"}
+{"from": "CN-046", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-046", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "CN-046", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "CN-046", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "E-2a8aab46b40050ff", "relation": "推荐做法", "to": "E-91a4fbdb90e48167", "claim": "CN-047"}
+{"from": "CN-047", "relation": "主体", "to": "E-2a8aab46b40050ff"}
+{"from": "CN-047", "relation": "客体", "to": "E-91a4fbdb90e48167"}
+{"from": "CN-047", "relation": "来源", "to": "CN"}
+{"from": "CN-047", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-047", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-047", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-047", "relation": "场景", "to": "E-c79bb628c7385204"}
+{"from": "CN-047", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "E-b3d7890e34f69844", "relation": "书中实例", "to": "E-1a570ec33c44cf0e", "claim": "CN-048"}
+{"from": "CN-048", "relation": "主体", "to": "E-b3d7890e34f69844"}
+{"from": "CN-048", "relation": "客体", "to": "E-1a570ec33c44cf0e"}
+{"from": "CN-048", "relation": "来源", "to": "CN"}
+{"from": "CN-048", "relation": "适用人群", "to": "E-60b9b2fb048b1615"}
+{"from": "CN-048", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-048", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-048", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "E-270268aea47e32db", "relation": "用作近似参照", "to": "E-474a9ac96a3feb00", "claim": "CN-049"}
+{"from": "CN-049", "relation": "主体", "to": "E-270268aea47e32db"}
+{"from": "CN-049", "relation": "客体", "to": "E-474a9ac96a3feb00"}
+{"from": "CN-049", "relation": "来源", "to": "CN"}
+{"from": "CN-049", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-049", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-049", "relation": "场景", "to": "E-0ce945be04e763f2"}
+{"from": "CN-049", "relation": "场景", "to": "E-7b50017ae47eca32"}
+{"from": "CN-049", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-2064de345b1bce8d", "relation": "有助于", "to": "E-05ede8d4dad4f27c", "claim": "CN-050"}
+{"from": "CN-050", "relation": "主体", "to": "E-2064de345b1bce8d"}
+{"from": "CN-050", "relation": "客体", "to": "E-05ede8d4dad4f27c"}
+{"from": "CN-050", "relation": "来源", "to": "CN"}
+{"from": "CN-050", "relation": "适用人群", "to": "E-f38d5c9a4a4dc381"}
+{"from": "CN-050", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-050", "relation": "场景", "to": "E-cdbdbe0ecc57215d"}
+{"from": "CN-050", "relation": "场景", "to": "E-e7118dbe67b3bdab"}
+{"from": "CN-050", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "E-57c879c77c27ea3d", "relation": "描述性观察", "to": "E-7e4141189d328f01", "claim": "CN-051"}
+{"from": "CN-051", "relation": "主体", "to": "E-57c879c77c27ea3d"}
+{"from": "CN-051", "relation": "客体", "to": "E-7e4141189d328f01"}
+{"from": "CN-051", "relation": "来源", "to": "CN"}
+{"from": "CN-051", "relation": "适用人群", "to": "E-af0a6faa28f9351e"}
+{"from": "CN-051", "relation": "适用人群", "to": "E-0d6679620b072b99"}
+{"from": "CN-051", "relation": "场景", "to": "E-e24125eb0ffa58d7"}
+{"from": "CN-051", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "CN-051", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-b718ce0d9e4c0826", "relation": "计量基础", "to": "E-46f5a8aed68be290", "claim": "CN-052"}
+{"from": "CN-052", "relation": "主体", "to": "E-b718ce0d9e4c0826"}
+{"from": "CN-052", "relation": "客体", "to": "E-46f5a8aed68be290"}
+{"from": "CN-052", "relation": "来源", "to": "CN"}
+{"from": "CN-052", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-052", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "CN-052", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "CN-052", "relation": "场景", "to": "E-01fda4a98052f7b1"}
+{"from": "CN-052", "relation": "场景", "to": "E-6e2209ed01c6fd77"}
+{"from": "E-77653fa518e2ed31", "relation": "依能量需要变化", "to": "E-4e20b5b4749f3d0c", "claim": "CN-053"}
+{"from": "CN-053", "relation": "主体", "to": "E-77653fa518e2ed31"}
+{"from": "CN-053", "relation": "客体", "to": "E-4e20b5b4749f3d0c"}
+{"from": "CN-053", "relation": "来源", "to": "CN"}
+{"from": "CN-053", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-053", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "CN-053", "relation": "场景", "to": "E-8e3dd9d06d4ba8cb"}
+{"from": "CN-053", "relation": "场景", "to": "E-9ebe1ab0d17f69dd"}
+{"from": "E-2d807befd8705a39", "relation": "随孕期而变", "to": "E-e0b9704bb32d7013", "claim": "CN-054"}
+{"from": "CN-054", "relation": "主体", "to": "E-2d807befd8705a39"}
+{"from": "CN-054", "relation": "客体", "to": "E-e0b9704bb32d7013"}
+{"from": "CN-054", "relation": "来源", "to": "CN"}
+{"from": "CN-054", "relation": "适用人群", "to": "E-490d4b14f00bf18e"}
+{"from": "CN-054", "relation": "适用人群", "to": "E-ad4a8ab28ffeda86"}
+{"from": "CN-054", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "CN-054", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "CN-054", "relation": "场景", "to": "E-f811e633faddde08"}
+{"from": "CN-054", "relation": "场景", "to": "E-969ff90d66ee65c2"}
+{"from": "CN-054", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-5d5b98f7c9525b59", "relation": "受表达口径限定", "to": "E-c6dfa9dfd06f28d4", "claim": "CN-055"}
+{"from": "CN-055", "relation": "主体", "to": "E-5d5b98f7c9525b59"}
+{"from": "CN-055", "relation": "客体", "to": "E-c6dfa9dfd06f28d4"}
+{"from": "CN-055", "relation": "来源", "to": "CN"}
+{"from": "CN-055", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-055", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "CN-055", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-055", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "E-2c4590fdcb0a4fc0", "relation": "可能影响", "to": "E-3dd2ef11f748c9e3", "claim": "CN-056"}
+{"from": "CN-056", "relation": "主体", "to": "E-2c4590fdcb0a4fc0"}
+{"from": "CN-056", "relation": "客体", "to": "E-3dd2ef11f748c9e3"}
+{"from": "CN-056", "relation": "来源", "to": "CN"}
+{"from": "CN-056", "relation": "适用人群", "to": "E-9b30781e7f0f16f7"}
+{"from": "CN-056", "relation": "场景", "to": "E-e3cd0d68669d58fb"}
+{"from": "CN-056", "relation": "场景", "to": "E-d883c636d3f8913e"}
+{"from": "CN-056", "relation": "场景", "to": "E-7d74b2c1d095d86e"}
+{"from": "E-c390cbf326af8101", "relation": "区别于", "to": "E-c8ca476e49e62e24", "claim": "CN-057"}
+{"from": "CN-057", "relation": "主体", "to": "E-c390cbf326af8101"}
+{"from": "CN-057", "relation": "客体", "to": "E-c8ca476e49e62e24"}
+{"from": "CN-057", "relation": "来源", "to": "CN"}
+{"from": "CN-057", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-057", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-057", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "CN-057", "relation": "场景", "to": "E-7d74b2c1d095d86e"}
+{"from": "CN-057", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "E-ec6cd958011460ff", "relation": "区别于", "to": "E-651513627534133c", "claim": "CN-058"}
+{"from": "CN-058", "relation": "主体", "to": "E-ec6cd958011460ff"}
+{"from": "CN-058", "relation": "客体", "to": "E-651513627534133c"}
+{"from": "CN-058", "relation": "来源", "to": "CN"}
+{"from": "CN-058", "relation": "适用人群", "to": "E-ffc8293f4742e2d3"}
+{"from": "CN-058", "relation": "适用人群", "to": "E-d0cd4e3a504b5c2e"}
+{"from": "CN-058", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "CN-058", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "CN-058", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "E-5013151e3d971d6a", "relation": "需要考虑", "to": "E-afb62f770dd92710", "claim": "CN-059"}
+{"from": "CN-059", "relation": "主体", "to": "E-5013151e3d971d6a"}
+{"from": "CN-059", "relation": "客体", "to": "E-afb62f770dd92710"}
+{"from": "CN-059", "relation": "来源", "to": "CN"}
+{"from": "CN-059", "relation": "适用人群", "to": "E-1daba896ae500b33"}
+{"from": "CN-059", "relation": "场景", "to": "E-012ac0a62a7327dd"}
+{"from": "CN-059", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-059", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "E-0e17e36af0abf21c", "relation": "推荐做法", "to": "E-0dc099ec1ecffd56", "claim": "CN-060"}
+{"from": "CN-060", "relation": "主体", "to": "E-0e17e36af0abf21c"}
+{"from": "CN-060", "relation": "客体", "to": "E-0dc099ec1ecffd56"}
+{"from": "CN-060", "relation": "来源", "to": "CN"}
+{"from": "CN-060", "relation": "适用人群", "to": "E-e93ba607b63bcb49"}
+{"from": "CN-060", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "CN-060", "relation": "场景", "to": "E-6869675a0a12a77f"}
+{"from": "E-2e5422dceaea83aa", "relation": "可与之搭配", "to": "E-2a88723ed115703f", "claim": "CN-061"}
+{"from": "CN-061", "relation": "主体", "to": "E-2e5422dceaea83aa"}
+{"from": "CN-061", "relation": "客体", "to": "E-2a88723ed115703f"}
+{"from": "CN-061", "relation": "来源", "to": "CN"}
+{"from": "CN-061", "relation": "适用人群", "to": "E-df5739d32d76c19b"}
+{"from": "CN-061", "relation": "场景", "to": "E-1f88337baf2604f1"}
+{"from": "CN-061", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "CN-061", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "CN-061", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-a2a81f2294308766", "relation": "推荐做法", "to": "E-d2a9fa917816dc63", "claim": "CN-062"}
+{"from": "CN-062", "relation": "主体", "to": "E-a2a81f2294308766"}
+{"from": "CN-062", "relation": "客体", "to": "E-d2a9fa917816dc63"}
+{"from": "CN-062", "relation": "来源", "to": "CN"}
+{"from": "CN-062", "relation": "适用人群", "to": "E-a08f83ac9663ac9f"}
+{"from": "CN-062", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "CN-062", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "CN-062", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "CN-062", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "E-c5c1b95cd23557b6", "relation": "包含于", "to": "E-a8b4b3d65a787ee0", "claim": "EXT-001"}
+{"from": "EXT-001", "relation": "主体", "to": "E-c5c1b95cd23557b6"}
+{"from": "EXT-001", "relation": "客体", "to": "E-a8b4b3d65a787ee0"}
+{"from": "EXT-001", "relation": "来源", "to": "PAG"}
+{"from": "EXT-001", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-001", "relation": "场景", "to": "E-3279df87a9f1c26f"}
+{"from": "EXT-001", "relation": "场景", "to": "E-cb91dcd756d2caa9"}
+{"from": "EXT-001", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-eb8380a9846591af", "relation": "推荐搭配", "to": "E-3e624b4a75c8b32e", "claim": "EXT-002"}
+{"from": "EXT-002", "relation": "主体", "to": "E-eb8380a9846591af"}
+{"from": "EXT-002", "relation": "客体", "to": "E-3e624b4a75c8b32e"}
+{"from": "EXT-002", "relation": "来源", "to": "PAG"}
+{"from": "EXT-002", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-002", "relation": "场景", "to": "E-3279df87a9f1c26f"}
+{"from": "EXT-002", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "EXT-002", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-691e3269daa99bac", "relation": "推荐摄入", "to": "E-1415877f95ef9943", "claim": "EXT-003"}
+{"from": "EXT-003", "relation": "主体", "to": "E-691e3269daa99bac"}
+{"from": "EXT-003", "relation": "客体", "to": "E-1415877f95ef9943"}
+{"from": "EXT-003", "relation": "来源", "to": "CNS8"}
+{"from": "EXT-003", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-003", "relation": "场景", "to": "E-dec873d9ea53937e"}
+{"from": "EXT-003", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "EXT-003", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-5708d1c8aa48ad0c", "relation": "推荐搭配", "to": "E-e84303799bd18860", "claim": "EXT-004"}
+{"from": "EXT-004", "relation": "主体", "to": "E-5708d1c8aa48ad0c"}
+{"from": "EXT-004", "relation": "客体", "to": "E-e84303799bd18860"}
+{"from": "EXT-004", "relation": "来源", "to": "FOOD25"}
+{"from": "EXT-004", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-004", "relation": "场景", "to": "E-d94daba316055842"}
+{"from": "EXT-004", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-93c706d134b2ed59", "relation": "推荐替代", "to": "E-6cc128c556ce4e19", "claim": "EXT-005"}
+{"from": "EXT-005", "relation": "主体", "to": "E-93c706d134b2ed59"}
+{"from": "EXT-005", "relation": "客体", "to": "E-6cc128c556ce4e19"}
+{"from": "EXT-005", "relation": "来源", "to": "WHO26"}
+{"from": "EXT-005", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-005", "relation": "场景", "to": "E-f31e720c022e6bf2"}
+{"from": "EXT-005", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-788df7e31cf32503", "relation": "包括", "to": "E-b6c6028cfa6f2aeb", "claim": "EXT-006"}
+{"from": "EXT-006", "relation": "主体", "to": "E-788df7e31cf32503"}
+{"from": "EXT-006", "relation": "客体", "to": "E-b6c6028cfa6f2aeb"}
+{"from": "EXT-006", "relation": "来源", "to": "WHO26"}
+{"from": "EXT-006", "relation": "适用人群", "to": "E-1c44c92edda4a12c"}
+{"from": "EXT-006", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "EXT-006", "relation": "场景", "to": "E-4e98daedc20d0f27"}
+{"from": "E-b1dec78a9dbe9f44", "relation": "建议控制", "to": "E-ffdbb226cbae88c1", "claim": "EXT-007"}
+{"from": "EXT-007", "relation": "主体", "to": "E-b1dec78a9dbe9f44"}
+{"from": "EXT-007", "relation": "客体", "to": "E-ffdbb226cbae88c1"}
+{"from": "EXT-007", "relation": "来源", "to": "CNS8"}
+{"from": "EXT-007", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-007", "relation": "场景", "to": "E-111bb0cd52189d59"}
+{"from": "EXT-007", "relation": "场景", "to": "E-57d98301742211f1"}
+{"from": "EXT-007", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "E-66add665574e03c6", "relation": "增加风险", "to": "E-8b71b5f2e1c0199a", "claim": "EXT-008"}
+{"from": "EXT-008", "relation": "主体", "to": "E-66add665574e03c6"}
+{"from": "EXT-008", "relation": "客体", "to": "E-8b71b5f2e1c0199a"}
+{"from": "EXT-008", "relation": "来源", "to": "ALC"}
+{"from": "EXT-008", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-008", "relation": "适用人群", "to": "E-cb12d4b7c5eaa772"}
+{"from": "EXT-008", "relation": "场景", "to": "E-4e98daedc20d0f27"}
+{"from": "EXT-008", "relation": "场景", "to": "E-9ee26b6a2b6e88ad"}
+{"from": "EXT-008", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "E-def28dc3740f4b60", "relation": "推荐用于", "to": "E-dc301274b794c7df", "claim": "EXT-009"}
+{"from": "EXT-009", "relation": "主体", "to": "E-def28dc3740f4b60"}
+{"from": "EXT-009", "relation": "客体", "to": "E-dc301274b794c7df"}
+{"from": "EXT-009", "relation": "来源", "to": "FOLCN"}
+{"from": "EXT-009", "relation": "适用人群", "to": "E-e256eb8957bd4877"}
+{"from": "EXT-009", "relation": "适用人群", "to": "E-3aa95b1034a10228"}
+{"from": "EXT-009", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "EXT-009", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "EXT-009", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "E-def28dc3740f4b60", "relation": "推荐用于", "to": "E-dc301274b794c7df", "claim": "EXT-010"}
+{"from": "EXT-010", "relation": "主体", "to": "E-def28dc3740f4b60"}
+{"from": "EXT-010", "relation": "客体", "to": "E-dc301274b794c7df"}
+{"from": "EXT-010", "relation": "来源", "to": "FOLWHO"}
+{"from": "EXT-010", "relation": "适用人群", "to": "E-e256eb8957bd4877"}
+{"from": "EXT-010", "relation": "适用人群", "to": "E-3aa95b1034a10228"}
+{"from": "EXT-010", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "EXT-010", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "E-3ad1369a74b4f82e", "relation": "包含", "to": "E-def28dc3740f4b60", "claim": "EXT-011"}
+{"from": "EXT-011", "relation": "主体", "to": "E-3ad1369a74b4f82e"}
+{"from": "EXT-011", "relation": "客体", "to": "E-def28dc3740f4b60"}
+{"from": "EXT-011", "relation": "来源", "to": "FOLLOCAL"}
+{"from": "EXT-011", "relation": "适用人群", "to": "E-e256eb8957bd4877"}
+{"from": "EXT-011", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "EXT-011", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "E-3ad1369a74b4f82e", "relation": "包含", "to": "E-def28dc3740f4b60", "claim": "EXT-012"}
+{"from": "EXT-012", "relation": "主体", "to": "E-3ad1369a74b4f82e"}
+{"from": "EXT-012", "relation": "客体", "to": "E-def28dc3740f4b60"}
+{"from": "EXT-012", "relation": "来源", "to": "FOLBJ"}
+{"from": "EXT-012", "relation": "适用人群", "to": "E-f02046605c50e96e"}
+{"from": "EXT-012", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "EXT-012", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "E-6c04245073cf9188", "relation": "证据不足", "to": "E-1a154e0d33c2e7ad", "claim": "EXT-013"}
+{"from": "EXT-013", "relation": "主体", "to": "E-6c04245073cf9188"}
+{"from": "EXT-013", "relation": "客体", "to": "E-1a154e0d33c2e7ad"}
+{"from": "EXT-013", "relation": "来源", "to": "FERT"}
+{"from": "EXT-013", "relation": "适用人群", "to": "E-77dc45fd7fca1029"}
+{"from": "EXT-013", "relation": "适用人群", "to": "E-0680baa6e1f30139"}
+{"from": "EXT-013", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "EXT-013", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "E-5ad92c48ffd4ffac", "relation": "证据不足", "to": "E-bb0f98425deb625a", "claim": "EXT-014"}
+{"from": "EXT-014", "relation": "主体", "to": "E-5ad92c48ffd4ffac"}
+{"from": "EXT-014", "relation": "客体", "to": "E-bb0f98425deb625a"}
+{"from": "EXT-014", "relation": "来源", "to": "VITS"}
+{"from": "EXT-014", "relation": "适用人群", "to": "E-169df232d1566373"}
+{"from": "EXT-014", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "EXT-014", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "E-283ef24055902443", "relation": "不推荐用于", "to": "E-bb0f98425deb625a", "claim": "EXT-015"}
+{"from": "EXT-015", "relation": "主体", "to": "E-283ef24055902443"}
+{"from": "EXT-015", "relation": "客体", "to": "E-bb0f98425deb625a"}
+{"from": "EXT-015", "relation": "来源", "to": "VITS"}
+{"from": "EXT-015", "relation": "适用人群", "to": "E-169df232d1566373"}
+{"from": "EXT-015", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "E-8ffa0ed5d68159b7", "relation": "需要", "to": "E-214f260fddc22cfe", "claim": "EXT-016"}
+{"from": "EXT-016", "relation": "主体", "to": "E-8ffa0ed5d68159b7"}
+{"from": "EXT-016", "relation": "客体", "to": "E-214f260fddc22cfe"}
+{"from": "EXT-016", "relation": "来源", "to": "SAFE"}
+{"from": "EXT-016", "relation": "适用人群", "to": "E-885d75c757dfcb3c"}
+{"from": "EXT-016", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "EXT-016", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "EXT-016", "relation": "场景", "to": "E-d276384cbb223591"}
+{"from": "EXT-016", "relation": "场景", "to": "E-7ac9481614ba2e08"}
+{"from": "E-7d3241e32902d0cc", "relation": "需要", "to": "E-598bf3289ba4353c", "claim": "EXT-017"}
+{"from": "EXT-017", "relation": "主体", "to": "E-7d3241e32902d0cc"}
+{"from": "EXT-017", "relation": "客体", "to": "E-598bf3289ba4353c"}
+{"from": "EXT-017", "relation": "来源", "to": "SAFECN"}
+{"from": "EXT-017", "relation": "适用人群", "to": "E-885d75c757dfcb3c"}
+{"from": "EXT-017", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "EXT-017", "relation": "场景", "to": "E-305687a2449ebe1f"}
+{"from": "E-5c74016917b2d9cd", "relation": "推荐选择", "to": "E-9d1e2fd54088a462", "claim": "EXT-018"}
+{"from": "EXT-018", "relation": "主体", "to": "E-5c74016917b2d9cd"}
+{"from": "EXT-018", "relation": "客体", "to": "E-9d1e2fd54088a462"}
+{"from": "EXT-018", "relation": "来源", "to": "PREGSAFE"}
+{"from": "EXT-018", "relation": "适用人群", "to": "E-eabd0865783c539d"}
+{"from": "EXT-018", "relation": "场景", "to": "E-b57a56700f52acaf"}
+{"from": "EXT-018", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "EXT-018", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-0583867d542f9b82", "relation": "因物种而异", "to": "E-4c4dbdcb6dfc0aa7", "claim": "EXT-019"}
+{"from": "EXT-019", "relation": "主体", "to": "E-0583867d542f9b82"}
+{"from": "EXT-019", "relation": "客体", "to": "E-4c4dbdcb6dfc0aa7"}
+{"from": "EXT-019", "relation": "来源", "to": "FISH"}
+{"from": "EXT-019", "relation": "适用人群", "to": "E-49bed6a25e2b21cf"}
+{"from": "EXT-019", "relation": "适用人群", "to": "E-cb12d4b7c5eaa772"}
+{"from": "EXT-019", "relation": "适用人群", "to": "E-8b16e20f599278fd"}
+{"from": "EXT-019", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "EXT-019", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "EXT-019", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-b88fe0a5474f1923", "relation": "需要排查", "to": "E-0b7e8acc194c3ce3", "claim": "EXT-020"}
+{"from": "EXT-020", "relation": "主体", "to": "E-b88fe0a5474f1923"}
+{"from": "EXT-020", "relation": "客体", "to": "E-0b7e8acc194c3ce3"}
+{"from": "EXT-020", "relation": "来源", "to": "ALLFDA"}
+{"from": "EXT-020", "relation": "适用人群", "to": "E-bba5eb94700ec4a8"}
+{"from": "EXT-020", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "EXT-020", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "EXT-020", "relation": "场景", "to": "E-a9a49c817394f8e9"}
+{"from": "EXT-020", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-f0ff5ca611227908", "relation": "用于提示", "to": "E-0b7e8acc194c3ce3", "claim": "EXT-021"}
+{"from": "EXT-021", "relation": "主体", "to": "E-f0ff5ca611227908"}
+{"from": "EXT-021", "relation": "客体", "to": "E-0b7e8acc194c3ce3"}
+{"from": "EXT-021", "relation": "来源", "to": "ALLCN"}
+{"from": "EXT-021", "relation": "适用人群", "to": "E-6623e535cb18385c"}
+{"from": "EXT-021", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "EXT-021", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "EXT-021", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "E-719433fce712ad6d", "relation": "换算至", "to": "E-ff4bb9c38dd473c6", "claim": "EXT-022"}
+{"from": "EXT-022", "relation": "主体", "to": "E-719433fce712ad6d"}
+{"from": "EXT-022", "relation": "客体", "to": "E-ff4bb9c38dd473c6"}
+{"from": "EXT-022", "relation": "来源", "to": "LABEL11"}
+{"from": "EXT-022", "relation": "适用人群", "to": "E-4c3ae71116f665f1"}
+{"from": "EXT-022", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "EXT-022", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "EXT-022", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "E-719433fce712ad6d", "relation": "区分", "to": "E-144a8cbecf80fb45", "claim": "EXT-023"}
+{"from": "EXT-023", "relation": "主体", "to": "E-719433fce712ad6d"}
+{"from": "EXT-023", "relation": "客体", "to": "E-144a8cbecf80fb45"}
+{"from": "EXT-023", "relation": "来源", "to": "LABEL25"}
+{"from": "EXT-023", "relation": "适用人群", "to": "E-4c3ae71116f665f1"}
+{"from": "EXT-023", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "E-4d7cad0a9399f2e6", "relation": "证据不足", "to": "E-2f4108dced4ddc65", "claim": "EXT-024"}
+{"from": "EXT-024", "relation": "主体", "to": "E-4d7cad0a9399f2e6"}
+{"from": "EXT-024", "relation": "客体", "to": "E-2f4108dced4ddc65"}
+{"from": "EXT-024", "relation": "来源", "to": "DETOX"}
+{"from": "EXT-024", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "EXT-024", "relation": "场景", "to": "E-d0a3b442c2a93839"}
+{"from": "EXT-024", "relation": "场景", "to": "E-0ce945be04e763f2"}
+{"from": "E-03e17013505218e2", "relation": "关注", "to": "E-8ec0cc37c08c2326", "claim": "EXT-025"}
+{"from": "EXT-025", "relation": "主体", "to": "E-03e17013505218e2"}
+{"from": "EXT-025", "relation": "客体", "to": "E-8ec0cc37c08c2326"}
+{"from": "EXT-025", "relation": "来源", "to": "OLD"}
+{"from": "EXT-025", "relation": "适用人群", "to": "E-50ff7e03b32dc0c7"}
+{"from": "EXT-025", "relation": "场景", "to": "E-4d515865f7857167"}
+{"from": "EXT-025", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "E-15ccde51b4c133b9", "relation": "推荐选择", "to": "E-1f8eb321f1997d41", "claim": "EXT-026"}
+{"from": "EXT-026", "relation": "主体", "to": "E-15ccde51b4c133b9"}
+{"from": "EXT-026", "relation": "客体", "to": "E-1f8eb321f1997d41"}
+{"from": "EXT-026", "relation": "来源", "to": "PERI"}
+{"from": "EXT-026", "relation": "适用人群", "to": "E-a4674cbc71be5395"}
+{"from": "EXT-026", "relation": "场景", "to": "E-4d515865f7857167"}
+{"from": "E-8b16e20f599278fd", "relation": "推荐搭配", "to": "E-eae1538907f6b67f", "claim": "EXT-027"}
+{"from": "EXT-027", "relation": "主体", "to": "E-8b16e20f599278fd"}
+{"from": "EXT-027", "relation": "客体", "to": "E-eae1538907f6b67f"}
+{"from": "EXT-027", "relation": "来源", "to": "LACT"}
+{"from": "EXT-027", "relation": "适用人群", "to": "E-ee155b8470efeab1"}
+{"from": "EXT-027", "relation": "场景", "to": "E-a70a77c75b1dc74f"}
+{"from": "EXT-027", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "EXT-027", "relation": "场景", "to": "E-4d515865f7857167"}
+{"from": "E-ced66b503a44e424", "relation": "取决于", "to": "E-9d9961865923c261", "claim": "EXT-028"}
+{"from": "EXT-028", "relation": "主体", "to": "E-ced66b503a44e424"}
+{"from": "EXT-028", "relation": "客体", "to": "E-9d9961865923c261"}
+{"from": "EXT-028", "relation": "来源", "to": "DRI"}
+{"from": "EXT-028", "relation": "适用人群", "to": "E-1ab3d8edd510abdf"}
+{"from": "EXT-028", "relation": "场景", "to": "E-87f6283ec623bdfa"}
+{"from": "EXT-028", "relation": "场景", "to": "E-c58140e6cf837851"}
+{"from": "E-3960f59a69b71c51", "relation": "需要可靠来源", "to": "E-c536960b3ec7d1d7", "claim": "EXT-029"}
+{"from": "EXT-029", "relation": "主体", "to": "E-3960f59a69b71c51"}
+{"from": "EXT-029", "relation": "客体", "to": "E-c536960b3ec7d1d7"}
+{"from": "EXT-029", "relation": "来源", "to": "B12"}
+{"from": "EXT-029", "relation": "适用人群", "to": "E-14dc0cbd82b151de"}
+{"from": "EXT-029", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "EXT-029", "relation": "场景", "to": "E-131b13aa265996df"}
+{"from": "EXT-029", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "E-dffe0d949d35db96", "relation": "避免", "to": "E-a0ee70dd59e59392", "claim": "EXT-030"}
+{"from": "EXT-030", "relation": "主体", "to": "E-dffe0d949d35db96"}
+{"from": "EXT-030", "relation": "客体", "to": "E-a0ee70dd59e59392"}
+{"from": "EXT-030", "relation": "来源", "to": "POULTRY"}
+{"from": "EXT-030", "relation": "适用人群", "to": "E-885d75c757dfcb3c"}
+{"from": "EXT-030", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "EXT-030", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "EXT-030", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "E-26568522aec48726", "relation": "仍含", "to": "E-3406a682dd553c7b", "claim": "EXT-031"}
+{"from": "EXT-031", "relation": "主体", "to": "E-26568522aec48726"}
+{"from": "EXT-031", "relation": "客体", "to": "E-3406a682dd553c7b"}
+{"from": "EXT-031", "relation": "来源", "to": "MILKAL"}
+{"from": "EXT-031", "relation": "适用人群", "to": "E-c2a212f4957a8588"}
+{"from": "EXT-031", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "EXT-031", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "EXT-031", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "E-3991abf32277342b", "relation": "推荐做法", "to": "E-2ecb3d4746cd651e", "claim": "HAR-001"}
+{"from": "HAR-001", "relation": "主体", "to": "E-3991abf32277342b"}
+{"from": "HAR-001", "relation": "客体", "to": "E-2ecb3d4746cd651e"}
+{"from": "HAR-001", "relation": "来源", "to": "HAR"}
+{"from": "HAR-001", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-001", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "HAR-001", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "HAR-001", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "HAR-001", "relation": "参见", "to": "HAR-015"}
+{"from": "HAR-001", "relation": "参见", "to": "HAR-020"}
+{"from": "E-9979db321f80a51c", "relation": "判断依据", "to": "E-3b31653aec2fbd76", "claim": "HAR-002"}
+{"from": "HAR-002", "relation": "主体", "to": "E-9979db321f80a51c"}
+{"from": "HAR-002", "relation": "客体", "to": "E-3b31653aec2fbd76"}
+{"from": "HAR-002", "relation": "来源", "to": "HAR"}
+{"from": "HAR-002", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-002", "relation": "场景", "to": "E-7d74b2c1d095d86e"}
+{"from": "E-a533088950f657d0", "relation": "适用限制", "to": "E-0a82c33982b9db1b", "claim": "HAR-003"}
+{"from": "HAR-003", "relation": "主体", "to": "E-a533088950f657d0"}
+{"from": "HAR-003", "relation": "客体", "to": "E-0a82c33982b9db1b"}
+{"from": "HAR-003", "relation": "来源", "to": "HAR"}
+{"from": "HAR-003", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-003", "relation": "场景", "to": "E-5e607c869d291608"}
+{"from": "HAR-003", "relation": "参见", "to": "HAR-002"}
+{"from": "E-88b9de4257b4554a", "relation": "推荐做法", "to": "E-8f5b88576e33afc4", "claim": "HAR-004"}
+{"from": "HAR-004", "relation": "主体", "to": "E-88b9de4257b4554a"}
+{"from": "HAR-004", "relation": "客体", "to": "E-8f5b88576e33afc4"}
+{"from": "HAR-004", "relation": "来源", "to": "HAR"}
+{"from": "HAR-004", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-004", "relation": "场景", "to": "E-88b9de4257b4554a"}
+{"from": "HAR-004", "relation": "场景", "to": "E-b94f04911c2c90ed"}
+{"from": "E-4bfe0c8eceb24cb8", "relation": "推荐做法", "to": "E-af7ad093e9043e4b", "claim": "HAR-005"}
+{"from": "HAR-005", "relation": "主体", "to": "E-4bfe0c8eceb24cb8"}
+{"from": "HAR-005", "relation": "客体", "to": "E-af7ad093e9043e4b"}
+{"from": "HAR-005", "relation": "来源", "to": "HAR"}
+{"from": "HAR-005", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-005", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "HAR-005", "relation": "场景", "to": "E-0ce945be04e763f2"}
+{"from": "E-6cc128c556ce4e19", "relation": "替换为", "to": "E-93c706d134b2ed59", "claim": "HAR-006"}
+{"from": "HAR-006", "relation": "主体", "to": "E-6cc128c556ce4e19"}
+{"from": "HAR-006", "relation": "客体", "to": "E-93c706d134b2ed59"}
+{"from": "HAR-006", "relation": "来源", "to": "HAR"}
+{"from": "HAR-006", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-006", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "HAR-006", "relation": "场景", "to": "E-ec8f27578ea58a37"}
+{"from": "HAR-006", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "HAR-006", "relation": "参见", "to": "HAR-027"}
+{"from": "E-54d50629063b0fe9", "relation": "提供线索", "to": "E-163b162c19226cc3", "claim": "HAR-007"}
+{"from": "HAR-007", "relation": "主体", "to": "E-54d50629063b0fe9"}
+{"from": "HAR-007", "relation": "客体", "to": "E-163b162c19226cc3"}
+{"from": "HAR-007", "relation": "来源", "to": "HAR"}
+{"from": "HAR-007", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-007", "relation": "场景", "to": "E-e6cd86b87c75b899"}
+{"from": "E-7a8db95352f9fc45", "relation": "替换为", "to": "E-2ecb3d4746cd651e", "claim": "HAR-008"}
+{"from": "HAR-008", "relation": "主体", "to": "E-7a8db95352f9fc45"}
+{"from": "HAR-008", "relation": "客体", "to": "E-2ecb3d4746cd651e"}
+{"from": "HAR-008", "relation": "来源", "to": "HAR"}
+{"from": "HAR-008", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-008", "relation": "场景", "to": "E-dec873d9ea53937e"}
+{"from": "HAR-008", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "HAR-008", "relation": "场景", "to": "E-a1d2cf82d476bcd7"}
+{"from": "HAR-008", "relation": "参见", "to": "HAR-028"}
+{"from": "E-c8ca476e49e62e24", "relation": "取决于", "to": "E-7b108188384e026c", "claim": "HAR-009"}
+{"from": "HAR-009", "relation": "主体", "to": "E-c8ca476e49e62e24"}
+{"from": "HAR-009", "relation": "客体", "to": "E-7b108188384e026c"}
+{"from": "HAR-009", "relation": "来源", "to": "HAR"}
+{"from": "HAR-009", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-009", "relation": "场景", "to": "E-457ad2427608ef75"}
+{"from": "HAR-009", "relation": "场景", "to": "E-02143c34d0cce2d5"}
+{"from": "E-a8b427a0b2b3cb6c", "relation": "判断依据", "to": "E-37fed409a74143da", "claim": "HAR-010"}
+{"from": "HAR-010", "relation": "主体", "to": "E-a8b427a0b2b3cb6c"}
+{"from": "HAR-010", "relation": "客体", "to": "E-37fed409a74143da"}
+{"from": "HAR-010", "relation": "来源", "to": "HAR"}
+{"from": "HAR-010", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-010", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "HAR-010", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "E-01db2436979f7f5f", "relation": "证据不确定", "to": "E-d54457a9ca7bf17c", "claim": "HAR-011"}
+{"from": "HAR-011", "relation": "主体", "to": "E-01db2436979f7f5f"}
+{"from": "HAR-011", "relation": "客体", "to": "E-d54457a9ca7bf17c"}
+{"from": "HAR-011", "relation": "来源", "to": "HAR"}
+{"from": "HAR-011", "relation": "适用人群", "to": "E-8c56a26a540d9d91"}
+{"from": "HAR-011", "relation": "适用人群", "to": "E-7380e9b8581f7bcd"}
+{"from": "HAR-011", "relation": "场景", "to": "E-15ccde51b4c133b9"}
+{"from": "HAR-011", "relation": "场景", "to": "E-f808a1044ba6ba0f"}
+{"from": "E-0482ce19d0ee750e", "relation": "推荐做法", "to": "E-f89eff6c5919dca1", "claim": "HAR-012"}
+{"from": "HAR-012", "relation": "主体", "to": "E-0482ce19d0ee750e"}
+{"from": "HAR-012", "relation": "客体", "to": "E-f89eff6c5919dca1"}
+{"from": "HAR-012", "relation": "来源", "to": "HAR"}
+{"from": "HAR-012", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-012", "relation": "场景", "to": "E-f648d6712cf804d1"}
+{"from": "HAR-012", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "HAR-012", "relation": "场景", "to": "E-2acd5439c7927854"}
+{"from": "E-6557ae68892d2b53", "relation": "可替换为", "to": "E-54a00270f0ec1374", "claim": "HAR-013"}
+{"from": "HAR-013", "relation": "主体", "to": "E-6557ae68892d2b53"}
+{"from": "HAR-013", "relation": "客体", "to": "E-54a00270f0ec1374"}
+{"from": "HAR-013", "relation": "来源", "to": "HAR"}
+{"from": "HAR-013", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-013", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "HAR-013", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "HAR-013", "relation": "场景", "to": "E-064b1fd4539233c5"}
+{"from": "HAR-013", "relation": "参见", "to": "HAR-012"}
+{"from": "E-b7d5821ea05c29a3", "relation": "推荐做法", "to": "E-b883c95a6be9e1a8", "claim": "HAR-014"}
+{"from": "HAR-014", "relation": "主体", "to": "E-b7d5821ea05c29a3"}
+{"from": "HAR-014", "relation": "客体", "to": "E-b883c95a6be9e1a8"}
+{"from": "HAR-014", "relation": "来源", "to": "HAR"}
+{"from": "HAR-014", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-014", "relation": "场景", "to": "E-f648d6712cf804d1"}
+{"from": "HAR-014", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "HAR-014", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "E-37d4b34623c87842", "relation": "书中历史主张", "to": "E-2bd946e79ce943a4", "claim": "HAR-015"}
+{"from": "HAR-015", "relation": "主体", "to": "E-37d4b34623c87842"}
+{"from": "HAR-015", "relation": "客体", "to": "E-2bd946e79ce943a4"}
+{"from": "HAR-015", "relation": "来源", "to": "HAR"}
+{"from": "HAR-015", "relation": "适用人群", "to": "E-edde7eb85851a5ad"}
+{"from": "HAR-015", "relation": "适用人群", "to": "E-fa68befaa0babeb1"}
+{"from": "HAR-015", "relation": "适用人群", "to": "E-4a9f54cf6dc29812"}
+{"from": "HAR-015", "relation": "场景", "to": "E-bf187ad2ef90836b"}
+{"from": "HAR-015", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "HAR-015", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "HAR-015", "relation": "参见", "to": "HAR-016"}
+{"from": "E-def28dc3740f4b60", "relation": "疑似单位错误", "to": "E-fadf85e31944c1db", "claim": "HAR-016"}
+{"from": "HAR-016", "relation": "主体", "to": "E-def28dc3740f4b60"}
+{"from": "HAR-016", "relation": "客体", "to": "E-fadf85e31944c1db"}
+{"from": "HAR-016", "relation": "来源", "to": "HAR"}
+{"from": "HAR-016", "relation": "适用人群", "to": "E-2c5fab7b818d7a7c"}
+{"from": "HAR-016", "relation": "场景", "to": "E-5e9c019e7c75bc10"}
+{"from": "HAR-016", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "HAR-016", "relation": "场景", "to": "E-bf187ad2ef90836b"}
+{"from": "HAR-016", "relation": "参见", "to": "HAR-015"}
+{"from": "HAR-016", "relation": "参见", "to": "HAR-022"}
+{"from": "E-c4060fd80bda1d80", "relation": "书中历史主张", "to": "E-13edd8d243c3bf86", "claim": "HAR-017"}
+{"from": "HAR-017", "relation": "主体", "to": "E-c4060fd80bda1d80"}
+{"from": "HAR-017", "relation": "客体", "to": "E-13edd8d243c3bf86"}
+{"from": "HAR-017", "relation": "来源", "to": "HAR"}
+{"from": "HAR-017", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-017", "relation": "场景", "to": "E-0dbce9a0109939bf"}
+{"from": "HAR-017", "relation": "场景", "to": "E-88a9e2830b671ef7"}
+{"from": "HAR-017", "relation": "场景", "to": "E-e84303799bd18860"}
+{"from": "HAR-017", "relation": "参见", "to": "HAR-018"}
+{"from": "E-13edd8d243c3bf86", "relation": "证据限制", "to": "E-3cf171b6b8924228", "claim": "HAR-018"}
+{"from": "HAR-018", "relation": "主体", "to": "E-13edd8d243c3bf86"}
+{"from": "HAR-018", "relation": "客体", "to": "E-3cf171b6b8924228"}
+{"from": "HAR-018", "relation": "来源", "to": "HAR"}
+{"from": "HAR-018", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-018", "relation": "场景", "to": "E-6e8cd82f818d63e7"}
+{"from": "HAR-018", "relation": "场景", "to": "E-5e607c869d291608"}
+{"from": "HAR-018", "relation": "参见", "to": "HAR-017"}
+{"from": "HAR-018", "relation": "参见", "to": "HAR-003"}
+{"from": "E-c536960b3ec7d1d7", "relation": "值得核对", "to": "E-3960f59a69b71c51", "claim": "HAR-019"}
+{"from": "HAR-019", "relation": "主体", "to": "E-c536960b3ec7d1d7"}
+{"from": "HAR-019", "relation": "客体", "to": "E-3960f59a69b71c51"}
+{"from": "HAR-019", "relation": "来源", "to": "HAR"}
+{"from": "HAR-019", "relation": "适用人群", "to": "E-6b9c5ace41c6b4bd"}
+{"from": "HAR-019", "relation": "适用人群", "to": "E-d0f4ab9eab237485"}
+{"from": "HAR-019", "relation": "场景", "to": "E-1f88337baf2604f1"}
+{"from": "HAR-019", "relation": "场景", "to": "E-94511c6c0b1dc9d9"}
+{"from": "HAR-019", "relation": "场景", "to": "E-36140984401b1148"}
+{"from": "E-5ad92c48ffd4ffac", "relation": "书中历史主张", "to": "E-5e91e60e7e310b0b", "claim": "HAR-020"}
+{"from": "HAR-020", "relation": "主体", "to": "E-5ad92c48ffd4ffac"}
+{"from": "HAR-020", "relation": "客体", "to": "E-5e91e60e7e310b0b"}
+{"from": "HAR-020", "relation": "来源", "to": "HAR"}
+{"from": "HAR-020", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-020", "relation": "场景", "to": "E-f808a1044ba6ba0f"}
+{"from": "HAR-020", "relation": "参见", "to": "HAR-021"}
+{"from": "HAR-020", "relation": "参见", "to": "HAR-022"}
+{"from": "E-283ef24055902443", "relation": "书中历史主张", "to": "E-5e91e60e7e310b0b", "claim": "HAR-021"}
+{"from": "HAR-021", "relation": "主体", "to": "E-283ef24055902443"}
+{"from": "HAR-021", "relation": "客体", "to": "E-5e91e60e7e310b0b"}
+{"from": "HAR-021", "relation": "来源", "to": "HAR"}
+{"from": "HAR-021", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-021", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "HAR-021", "relation": "场景", "to": "E-2b20d9599a5b9d35"}
+{"from": "HAR-021", "relation": "参见", "to": "HAR-020"}
+{"from": "E-5e5d2a50a161a445", "relation": "值得核对", "to": "E-dc301274b794c7df", "claim": "HAR-022"}
+{"from": "HAR-022", "relation": "主体", "to": "E-5e5d2a50a161a445"}
+{"from": "HAR-022", "relation": "客体", "to": "E-dc301274b794c7df"}
+{"from": "HAR-022", "relation": "来源", "to": "HAR"}
+{"from": "HAR-022", "relation": "适用人群", "to": "E-2b0fab5bb5f43cf7"}
+{"from": "HAR-022", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "HAR-022", "relation": "场景", "to": "E-ddeca852616afb6f"}
+{"from": "HAR-022", "relation": "参见", "to": "HAR-016"}
+{"from": "E-f6a01256b7bde880", "relation": "推荐做法", "to": "E-e10961bb9bdfff13", "claim": "HAR-023"}
+{"from": "HAR-023", "relation": "主体", "to": "E-f6a01256b7bde880"}
+{"from": "HAR-023", "relation": "客体", "to": "E-e10961bb9bdfff13"}
+{"from": "HAR-023", "relation": "来源", "to": "HAR"}
+{"from": "HAR-023", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-023", "relation": "场景", "to": "E-5246adbc87322858"}
+{"from": "HAR-023", "relation": "场景", "to": "E-bd8dbd5724735390"}
+{"from": "HAR-023", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-5676a137aca6bd02", "relation": "组成", "to": "E-5baf61275bad1d56", "claim": "HAR-024"}
+{"from": "HAR-024", "relation": "主体", "to": "E-5676a137aca6bd02"}
+{"from": "HAR-024", "relation": "客体", "to": "E-5baf61275bad1d56"}
+{"from": "HAR-024", "relation": "来源", "to": "HAR"}
+{"from": "HAR-024", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-024", "relation": "场景", "to": "E-74b2901031722510"}
+{"from": "HAR-024", "relation": "场景", "to": "E-5b5d740744b986e8"}
+{"from": "HAR-024", "relation": "参见", "to": "HAR-015"}
+{"from": "HAR-024", "relation": "参见", "to": "HAR-003"}
+{"from": "E-1a5bc0553725b255", "relation": "换算依据", "to": "E-6f7e69dc62445160", "claim": "HAR-025"}
+{"from": "HAR-025", "relation": "主体", "to": "E-1a5bc0553725b255"}
+{"from": "HAR-025", "relation": "客体", "to": "E-6f7e69dc62445160"}
+{"from": "HAR-025", "relation": "来源", "to": "HAR"}
+{"from": "HAR-025", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-025", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "HAR-025", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "HAR-025", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "E-8c4d1bdc3b410e30", "relation": "提示", "to": "E-2533f119e97594d6", "claim": "HAR-026"}
+{"from": "HAR-026", "relation": "主体", "to": "E-8c4d1bdc3b410e30"}
+{"from": "HAR-026", "relation": "客体", "to": "E-2533f119e97594d6"}
+{"from": "HAR-026", "relation": "来源", "to": "HAR"}
+{"from": "HAR-026", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-026", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "HAR-026", "relation": "场景", "to": "E-6e098153a5860b46"}
+{"from": "E-2aef3d11527dea46", "relation": "可替换为", "to": "E-aa59aa8e8a7eecb8", "claim": "HAR-027"}
+{"from": "HAR-027", "relation": "主体", "to": "E-2aef3d11527dea46"}
+{"from": "HAR-027", "relation": "客体", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "HAR-027", "relation": "来源", "to": "HAR"}
+{"from": "HAR-027", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-027", "relation": "场景", "to": "E-ec8f27578ea58a37"}
+{"from": "HAR-027", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "HAR-027", "relation": "参见", "to": "HAR-006"}
+{"from": "E-2ecb3d4746cd651e", "relation": "推荐做法", "to": "E-3857ae489a1f8ac1", "claim": "HAR-028"}
+{"from": "HAR-028", "relation": "主体", "to": "E-2ecb3d4746cd651e"}
+{"from": "HAR-028", "relation": "客体", "to": "E-3857ae489a1f8ac1"}
+{"from": "HAR-028", "relation": "来源", "to": "HAR"}
+{"from": "HAR-028", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-028", "relation": "场景", "to": "E-07161a3bf2c5938e"}
+{"from": "HAR-028", "relation": "场景", "to": "E-e96be015e5915e4e"}
+{"from": "HAR-028", "relation": "参见", "to": "HAR-008"}
+{"from": "E-773a3f011cdd9776", "relation": "适用限制", "to": "E-1c3536e7fe67d003", "claim": "HAR-029"}
+{"from": "HAR-029", "relation": "主体", "to": "E-773a3f011cdd9776"}
+{"from": "HAR-029", "relation": "客体", "to": "E-1c3536e7fe67d003"}
+{"from": "HAR-029", "relation": "来源", "to": "HAR"}
+{"from": "HAR-029", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-029", "relation": "场景", "to": "E-c553c6e6e0416bd4"}
+{"from": "HAR-029", "relation": "场景", "to": "E-e84303799bd18860"}
+{"from": "E-0583867d542f9b82", "relation": "适用限制", "to": "E-48c311f1398d3c45", "claim": "HAR-030"}
+{"from": "HAR-030", "relation": "主体", "to": "E-0583867d542f9b82"}
+{"from": "HAR-030", "relation": "客体", "to": "E-48c311f1398d3c45"}
+{"from": "HAR-030", "relation": "来源", "to": "HAR"}
+{"from": "HAR-030", "relation": "适用人群", "to": "E-764ee48d6d345152"}
+{"from": "HAR-030", "relation": "适用人群", "to": "E-a9a2caed1a1fa457"}
+{"from": "HAR-030", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "HAR-030", "relation": "场景", "to": "E-cb12d4b7c5eaa772"}
+{"from": "HAR-030", "relation": "场景", "to": "E-012ac0a62a7327dd"}
+{"from": "HAR-030", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "E-3b42639cba66c9c9", "relation": "可能相互作用", "to": "E-9ba3e843206cd7bb", "claim": "HAR-031"}
+{"from": "HAR-031", "relation": "主体", "to": "E-3b42639cba66c9c9"}
+{"from": "HAR-031", "relation": "客体", "to": "E-9ba3e843206cd7bb"}
+{"from": "HAR-031", "relation": "来源", "to": "HAR"}
+{"from": "HAR-031", "relation": "适用人群", "to": "E-34a5661c819f92c1"}
+{"from": "HAR-031", "relation": "场景", "to": "E-424cba64d60d4c0d"}
+{"from": "HAR-031", "relation": "场景", "to": "E-7923771f2581ae01"}
+{"from": "HAR-031", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "E-c5d1ccaf9c312ee5", "relation": "可替换为零食选择", "to": "E-408c72bfd2970166", "claim": "HAR-032"}
+{"from": "HAR-032", "relation": "主体", "to": "E-c5d1ccaf9c312ee5"}
+{"from": "HAR-032", "relation": "客体", "to": "E-408c72bfd2970166"}
+{"from": "HAR-032", "relation": "来源", "to": "HAR"}
+{"from": "HAR-032", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-032", "relation": "场景", "to": "E-02b9c81c26d6f70c"}
+{"from": "HAR-032", "relation": "场景", "to": "E-e751bca25e1fc515"}
+{"from": "HAR-032", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "E-8f615d2ef8793ad9", "relation": "值得核对", "to": "E-6aca229c5793280d", "claim": "HAR-033"}
+{"from": "HAR-033", "relation": "主体", "to": "E-8f615d2ef8793ad9"}
+{"from": "HAR-033", "relation": "客体", "to": "E-6aca229c5793280d"}
+{"from": "HAR-033", "relation": "来源", "to": "HAR"}
+{"from": "HAR-033", "relation": "适用人群", "to": "E-9347657a880771ef"}
+{"from": "HAR-033", "relation": "场景", "to": "E-9ebe1ab0d17f69dd"}
+{"from": "HAR-033", "relation": "场景", "to": "E-4877c1f89cfa2fba"}
+{"from": "HAR-033", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "E-40fadc5d177ca04b", "relation": "分类口径", "to": "E-66d64559e3bfde1c", "claim": "HAR-034"}
+{"from": "HAR-034", "relation": "主体", "to": "E-40fadc5d177ca04b"}
+{"from": "HAR-034", "relation": "客体", "to": "E-66d64559e3bfde1c"}
+{"from": "HAR-034", "relation": "来源", "to": "HAR"}
+{"from": "HAR-034", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-034", "relation": "场景", "to": "E-804603f5ddb9a7a8"}
+{"from": "HAR-034", "relation": "场景", "to": "E-e84303799bd18860"}
+{"from": "E-5cc7225f31138f1d", "relation": "疑似单位错误", "to": "E-4eee3ee105d44a81", "claim": "HAR-035"}
+{"from": "HAR-035", "relation": "主体", "to": "E-5cc7225f31138f1d"}
+{"from": "HAR-035", "relation": "客体", "to": "E-4eee3ee105d44a81"}
+{"from": "HAR-035", "relation": "来源", "to": "HAR"}
+{"from": "HAR-035", "relation": "适用人群", "to": "E-2c5fab7b818d7a7c"}
+{"from": "HAR-035", "relation": "场景", "to": "E-6e2209ed01c6fd77"}
+{"from": "HAR-035", "relation": "场景", "to": "E-db6343818c85b654"}
+{"from": "E-364ca75fb6b71ff3", "relation": "可能提供", "to": "E-3910391980851dc6", "claim": "HAR-036"}
+{"from": "HAR-036", "relation": "主体", "to": "E-364ca75fb6b71ff3"}
+{"from": "HAR-036", "relation": "客体", "to": "E-3910391980851dc6"}
+{"from": "HAR-036", "relation": "来源", "to": "HAR"}
+{"from": "HAR-036", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-036", "relation": "场景", "to": "E-a666ef05afd230e0"}
+{"from": "HAR-036", "relation": "场景", "to": "E-3a6fb85d363923e6"}
+{"from": "HAR-036", "relation": "场景", "to": "E-1d0fd5f9336d9103"}
+{"from": "HAR-036", "relation": "参见", "to": "HAR-025"}
+{"from": "E-b97669f52ebcfd7f", "relation": "含有", "to": "E-86902fa0e945aac8", "claim": "HAR-037"}
+{"from": "HAR-037", "relation": "主体", "to": "E-b97669f52ebcfd7f"}
+{"from": "HAR-037", "relation": "客体", "to": "E-86902fa0e945aac8"}
+{"from": "HAR-037", "relation": "来源", "to": "HAR"}
+{"from": "HAR-037", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-037", "relation": "场景", "to": "E-29c6dd03bc6697d5"}
+{"from": "HAR-037", "relation": "场景", "to": "E-ff3274e6ad654a35"}
+{"from": "HAR-037", "relation": "场景", "to": "E-6e2209ed01c6fd77"}
+{"from": "HAR-037", "relation": "参见", "to": "HAR-025"}
+{"from": "E-2ecb3d4746cd651e", "relation": "观察到相关", "to": "E-0d91f3930b4aec66", "claim": "HAR-038"}
+{"from": "HAR-038", "relation": "主体", "to": "E-2ecb3d4746cd651e"}
+{"from": "HAR-038", "relation": "客体", "to": "E-0d91f3930b4aec66"}
+{"from": "HAR-038", "relation": "来源", "to": "HAR"}
+{"from": "HAR-038", "relation": "适用人群", "to": "E-c5c390575ccd1570"}
+{"from": "HAR-038", "relation": "场景", "to": "E-5e607c869d291608"}
+{"from": "HAR-038", "relation": "场景", "to": "E-9ac31f3249118f7e"}
+{"from": "HAR-038", "relation": "参见", "to": "HAR-008"}
+{"from": "HAR-038", "relation": "参见", "to": "HAR-003"}
+{"from": "E-286984b2bb186bf2", "relation": "试验报告", "to": "E-7ac474bc08edd366", "claim": "HAR-039"}
+{"from": "HAR-039", "relation": "主体", "to": "E-286984b2bb186bf2"}
+{"from": "HAR-039", "relation": "客体", "to": "E-7ac474bc08edd366"}
+{"from": "HAR-039", "relation": "来源", "to": "HAR"}
+{"from": "HAR-039", "relation": "适用人群", "to": "E-39c0219d1ea82844"}
+{"from": "HAR-039", "relation": "场景", "to": "E-5e607c869d291608"}
+{"from": "HAR-039", "relation": "参见", "to": "HAR-024"}
+{"from": "E-a8d6c21ad12e0206", "relation": "适用限制", "to": "E-dde11e0a50b0f03b", "claim": "HAR-040"}
+{"from": "HAR-040", "relation": "主体", "to": "E-a8d6c21ad12e0206"}
+{"from": "HAR-040", "relation": "客体", "to": "E-dde11e0a50b0f03b"}
+{"from": "HAR-040", "relation": "来源", "to": "HAR"}
+{"from": "HAR-040", "relation": "适用人群", "to": "E-182754a2e29120b0"}
+{"from": "HAR-040", "relation": "场景", "to": "E-8e0256b031f49198"}
+{"from": "HAR-040", "relation": "场景", "to": "E-ee5b5cc6945f5e01"}
+{"from": "HAR-040", "relation": "场景", "to": "E-a3e9c03d7502abbd"}
+{"from": "HAR-R001", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R002", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R003", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R004", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R005", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R006", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R007", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R008", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R009", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R010", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R011", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R012", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R013", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R014", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R015", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R016", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R017", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R018", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R019", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R020", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R021", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R022", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R023", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R024", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R025", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R026", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R027", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R028", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R029", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R030", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R031", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R032", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R033", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R034", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R035", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R036", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R037", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R038", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R039", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R040", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R041", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R042", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R043", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R044", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R045", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R046", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R047", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R048", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R049", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R050", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R051", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R052", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R053", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R054", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R055", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R056", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R057", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R058", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R059", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R060", "relation": "来源", "to": "HAR"}
+{"from": "HAR-R061", "relation": "来源", "to": "HAR"}
+{"from": "C01", "relation": "冲突", "to": "HAR-017"}
+{"from": "C01", "relation": "冲突", "to": "CN-009"}
+{"from": "C01", "relation": "冲突", "to": "ADA-017"}
+{"from": "C01", "relation": "冲突", "to": "EXT-003"}
+{"from": "C01", "relation": "冲突", "to": "EXT-031"}
+{"from": "C02", "relation": "冲突", "to": "HAR-015"}
+{"from": "C02", "relation": "冲突", "to": "ADA-005"}
+{"from": "C02", "relation": "冲突", "to": "CN-017"}
+{"from": "C02", "relation": "冲突", "to": "EXT-008"}
+{"from": "C03", "relation": "冲突", "to": "HAR-020"}
+{"from": "C03", "relation": "冲突", "to": "HAR-021"}
+{"from": "C03", "relation": "冲突", "to": "ADA-014"}
+{"from": "C03", "relation": "冲突", "to": "EXT-014"}
+{"from": "C03", "relation": "冲突", "to": "EXT-015"}
+{"from": "C04", "relation": "数据异常", "to": "HAR-016"}
+{"from": "C04", "relation": "数据异常", "to": "HAR-022"}
+{"from": "C04", "relation": "数据异常", "to": "CN-025"}
+{"from": "C04", "relation": "数据异常", "to": "EXT-009"}
+{"from": "C04", "relation": "数据异常", "to": "EXT-010"}
+{"from": "C04", "relation": "数据异常", "to": "EXT-008"}
+{"from": "C05", "relation": "冲突", "to": "ADA-010"}
+{"from": "C05", "relation": "冲突", "to": "ADA-011"}
+{"from": "C05", "relation": "冲突", "to": "HAR-006"}
+{"from": "C05", "relation": "冲突", "to": "EXT-005"}
+{"from": "C06", "relation": "冲突", "to": "CN-037"}
+{"from": "C06", "relation": "冲突", "to": "ADA-013"}
+{"from": "C06", "relation": "冲突", "to": "HAR-019"}
+{"from": "C06", "relation": "冲突", "to": "EXT-029"}
+{"from": "C07", "relation": "冲突", "to": "ADA-042"}
+{"from": "C07", "relation": "冲突", "to": "ADA-040"}
+{"from": "C07", "relation": "冲突", "to": "EXT-030"}
+{"from": "C08", "relation": "冲突", "to": "ADA-037"}
+{"from": "C08", "relation": "冲突", "to": "CN-010"}
+{"from": "C08", "relation": "冲突", "to": "EXT-031"}
+{"from": "C09", "relation": "版本替代", "to": "CN-044"}
+{"from": "C09", "relation": "版本替代", "to": "EXT-028"}
+{"from": "C10", "relation": "限定差异", "to": "CN-025"}
+{"from": "C10", "relation": "限定差异", "to": "ADA-015"}
+{"from": "C10", "relation": "限定差异", "to": "HAR-022"}
+{"from": "C10", "relation": "限定差异", "to": "EXT-009"}
+{"from": "C10", "relation": "限定差异", "to": "EXT-010"}
+{"from": "C10", "relation": "限定差异", "to": "EXT-011"}
+{"from": "C10", "relation": "限定差异", "to": "EXT-012"}
+{"from": "C11", "relation": "数据异常", "to": "HAR-035"}
+{"from": "C11", "relation": "数据异常", "to": "EXT-022"}
+{"from": "G01", "relation": "支持", "to": "CN-003"}
+{"from": "G01", "relation": "支持", "to": "HAR-008"}
+{"from": "G01", "relation": "支持", "to": "EXT-001"}
+{"from": "G02", "relation": "补充", "to": "ADA-043"}
+{"from": "G02", "relation": "补充", "to": "CN-022"}
+{"from": "G02", "relation": "补充", "to": "EXT-016"}
+{"from": "G02", "relation": "补充", "to": "EXT-017"}
+{"from": "G03", "relation": "补充", "to": "ADA-008"}
+{"from": "G03", "relation": "补充", "to": "CN-021"}
+{"from": "G03", "relation": "补充", "to": "HAR-025"}
+{"from": "G03", "relation": "补充", "to": "EXT-022"}
+{"from": "G03", "relation": "补充", "to": "EXT-023"}
+{"from": "E-5de5f0127cae184c", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-b8cf8f40d3dc1859", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-be0b2d8a600f4745", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-d2283ad932b89e62", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-269fea5be9488fa3", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-5847041be96ea5a9", "relation": "食物类别", "to": "E-e81a2e6ef816ca7a"}
+{"from": "E-e9f5b71a472d27bb", "relation": "食物类别", "to": "E-0ae0fad0a9d24e9e"}
+{"from": "E-d48f2c37cb150eca", "relation": "食物类别", "to": "E-8a7fe30a3860d1d8"}
+{"from": "E-85ddda1a720ba8a4", "relation": "食物类别", "to": "E-0583867d542f9b82"}
+{"from": "E-c58d91323914df76", "relation": "食物类别", "to": "E-5b6906660e098125"}
+{"from": "E-516f6a50c4a8e39c", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-be4d0775b3233ec6", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-ca740b4bd4177e97", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-dd1a68cb2c35fb78", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-bb00f7cf0680794b", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-aa59aa8e8a7eecb8", "relation": "食物类别", "to": "E-57d98301742211f1"}
+{"from": "E-a05421f53a0ad8ca", "relation": "食物类别", "to": "E-57d98301742211f1"}
+{"from": "E-6201b41ab8728a49", "relation": "食物类别", "to": "E-c4060fd80bda1d80"}
+{"from": "E-dbf9f9c94fc90b7c", "relation": "食物类别", "to": "E-27c180751ad60f8c"}
+{"from": "E-1ad702b18a4d7bef", "relation": "食物类别", "to": "E-27c180751ad60f8c"}
+{"from": "E-c03d37458e5ea44c", "relation": "食物类别", "to": "E-0ae0fad0a9d24e9e"}
+{"from": "E-f8bf95f291661e5e", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-db64a3d9605b63db", "relation": "食物类别", "to": "E-c4060fd80bda1d80"}
+{"from": "E-e1337e15ca73d20d", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-9b06b003f2278e75", "relation": "食物类别", "to": "E-e81a2e6ef816ca7a"}
+{"from": "E-b18a34fbdf818bce", "relation": "食物类别", "to": "E-0f00f3bb8edd92df"}
+{"from": "E-48b2fdf8e2815702", "relation": "食物类别", "to": "E-eb8380a9846591af"}
+{"from": "E-fee3c2bab59151b6", "relation": "食物类别", "to": "E-0583867d542f9b82"}
+{"from": "E-8b10efbe502cc59a", "relation": "食物类别", "to": "E-8a7fe30a3860d1d8"}
+{"from": "R01", "relation": "使用", "to": "E-5de5f0127cae184c"}
+{"from": "R01", "relation": "使用", "to": "E-5847041be96ea5a9"}
+{"from": "R01", "relation": "使用", "to": "E-516f6a50c4a8e39c"}
+{"from": "R01", "relation": "使用", "to": "E-be4d0775b3233ec6"}
+{"from": "R01", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R01", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R01", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R01", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R01", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R02", "relation": "使用", "to": "E-b8cf8f40d3dc1859"}
+{"from": "R02", "relation": "使用", "to": "E-d48f2c37cb150eca"}
+{"from": "R02", "relation": "使用", "to": "E-ca740b4bd4177e97"}
+{"from": "R02", "relation": "使用", "to": "E-be4d0775b3233ec6"}
+{"from": "R02", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R02", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R02", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R02", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R02", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R03", "relation": "使用", "to": "E-5de5f0127cae184c"}
+{"from": "R03", "relation": "使用", "to": "E-d48f2c37cb150eca"}
+{"from": "R03", "relation": "使用", "to": "E-bb00f7cf0680794b"}
+{"from": "R03", "relation": "使用", "to": "E-dd1a68cb2c35fb78"}
+{"from": "R03", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R03", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R03", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R03", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R03", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R04", "relation": "使用", "to": "E-5de5f0127cae184c"}
+{"from": "R04", "relation": "使用", "to": "E-85ddda1a720ba8a4"}
+{"from": "R04", "relation": "使用", "to": "E-516f6a50c4a8e39c"}
+{"from": "R04", "relation": "使用", "to": "E-be4d0775b3233ec6"}
+{"from": "R04", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R04", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R04", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R04", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R04", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R05", "relation": "使用", "to": "E-be0b2d8a600f4745"}
+{"from": "R05", "relation": "使用", "to": "E-e9f5b71a472d27bb"}
+{"from": "R05", "relation": "使用", "to": "E-ca740b4bd4177e97"}
+{"from": "R05", "relation": "使用", "to": "E-be4d0775b3233ec6"}
+{"from": "R05", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R05", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R05", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R05", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R05", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R06", "relation": "使用", "to": "E-b8cf8f40d3dc1859"}
+{"from": "R06", "relation": "使用", "to": "E-c58d91323914df76"}
+{"from": "R06", "relation": "使用", "to": "E-516f6a50c4a8e39c"}
+{"from": "R06", "relation": "使用", "to": "E-dd1a68cb2c35fb78"}
+{"from": "R06", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R06", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R06", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R06", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R06", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R07", "relation": "使用", "to": "E-5de5f0127cae184c"}
+{"from": "R07", "relation": "使用", "to": "E-5847041be96ea5a9"}
+{"from": "R07", "relation": "使用", "to": "E-ca740b4bd4177e97"}
+{"from": "R07", "relation": "使用", "to": "E-be4d0775b3233ec6"}
+{"from": "R07", "relation": "使用", "to": "E-aa59aa8e8a7eecb8"}
+{"from": "R07", "relation": "使用", "to": "E-a05421f53a0ad8ca"}
+{"from": "R07", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R07", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R07", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R08", "relation": "使用", "to": "E-269fea5be9488fa3"}
+{"from": "R08", "relation": "使用", "to": "E-6201b41ab8728a49"}
+{"from": "R08", "relation": "使用", "to": "E-dbf9f9c94fc90b7c"}
+{"from": "R08", "relation": "根据原则设计", "to": "EXT-001"}
+{"from": "R08", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R08", "relation": "根据原则设计", "to": "EXT-017"}
+{"from": "R09", "relation": "使用", "to": "E-d2283ad932b89e62"}
+{"from": "R09", "relation": "使用", "to": "E-c03d37458e5ea44c"}
+{"from": "R09", "relation": "使用", "to": "E-6201b41ab8728a49"}
+{"from": "R09", "relation": "使用", "to": "E-1ad702b18a4d7bef"}
+{"from": "R09", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R09", "relation": "根据原则设计", "to": "EXT-016"}
+{"from": "R09", "relation": "根据原则设计", "to": "EXT-020"}
+{"from": "R10", "relation": "使用", "to": "E-f8bf95f291661e5e"}
+{"from": "R10", "relation": "使用", "to": "E-c03d37458e5ea44c"}
+{"from": "R10", "relation": "使用", "to": "E-e1337e15ca73d20d"}
+{"from": "R10", "relation": "使用", "to": "E-db64a3d9605b63db"}
+{"from": "R10", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R10", "relation": "根据原则设计", "to": "EXT-016"}
+{"from": "R10", "relation": "根据原则设计", "to": "EXT-020"}
+{"from": "R11", "relation": "使用", "to": "E-b18a34fbdf818bce"}
+{"from": "R11", "relation": "使用", "to": "E-fee3c2bab59151b6"}
+{"from": "R11", "relation": "使用", "to": "E-48b2fdf8e2815702"}
+{"from": "R11", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R11", "relation": "根据原则设计", "to": "EXT-016"}
+{"from": "R11", "relation": "根据原则设计", "to": "EXT-020"}
+{"from": "R12", "relation": "使用", "to": "E-b18a34fbdf818bce"}
+{"from": "R12", "relation": "使用", "to": "E-8b10efbe502cc59a"}
+{"from": "R12", "relation": "使用", "to": "E-48b2fdf8e2815702"}
+{"from": "R12", "relation": "使用", "to": "E-1ad702b18a4d7bef"}
+{"from": "R12", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R12", "relation": "根据原则设计", "to": "EXT-016"}
+{"from": "R12", "relation": "根据原则设计", "to": "EXT-020"}
+{"from": "R13", "relation": "使用", "to": "E-f8bf95f291661e5e"}
+{"from": "R13", "relation": "使用", "to": "E-9b06b003f2278e75"}
+{"from": "R13", "relation": "使用", "to": "E-c03d37458e5ea44c"}
+{"from": "R13", "relation": "使用", "to": "E-1ad702b18a4d7bef"}
+{"from": "R13", "relation": "根据原则设计", "to": "EXT-002"}
+{"from": "R13", "relation": "根据原则设计", "to": "EXT-016"}
+{"from": "R13", "relation": "根据原则设计", "to": "EXT-020"}
+{"from": "S01", "relation": "原食材", "to": "E-b892a42b9695881d"}
+{"from": "S01", "relation": "候选替代", "to": "E-26568522aec48726"}
+{"from": "S01", "relation": "依据", "to": "CN-010"}
+{"from": "S01", "relation": "依据", "to": "EXT-031"}
+{"from": "S02", "relation": "原食材", "to": "E-b892a42b9695881d"}
+{"from": "S02", "relation": "候选替代", "to": "E-c8474b5497b987c3"}
+{"from": "S02", "relation": "依据", "to": "ADA-017"}
+{"from": "S02", "relation": "依据", "to": "EXT-020"}
+{"from": "S02", "relation": "依据", "to": "EXT-031"}
+{"from": "S03", "relation": "原食材", "to": "E-6a43ffef5d80a512"}
+{"from": "S03", "relation": "候选替代", "to": "E-fb6e65743f0b3d21"}
+{"from": "S03", "relation": "依据", "to": "EXT-004"}
+{"from": "S03", "relation": "依据", "to": "EXT-019"}
+{"from": "S03", "relation": "依据", "to": "EXT-020"}
+{"from": "S03", "relation": "依据", "to": "EXT-030"}
+{"from": "S04", "relation": "原食材", "to": "E-1ade611af59720e4"}
+{"from": "S04", "relation": "候选替代", "to": "E-5847041be96ea5a9"}
+{"from": "S04", "relation": "依据", "to": "CN-043"}
+{"from": "S04", "relation": "依据", "to": "ADA-017"}
+{"from": "S04", "relation": "依据", "to": "EXT-029"}
+{"from": "S05", "relation": "原食材", "to": "E-afa5489256a51d9d"}
+{"from": "S05", "relation": "候选替代", "to": "E-0907c54ec846a77d"}
+{"from": "S05", "relation": "依据", "to": "HAR-013"}
+{"from": "S05", "relation": "依据", "to": "ADA-031"}
+{"from": "S05", "relation": "依据", "to": "EXT-020"}
+{"from": "S06", "relation": "原食材", "to": "E-2b5c427e815cbe4e"}
+{"from": "S06", "relation": "候选替代", "to": "E-d5480a6152831e33"}
+{"from": "S06", "relation": "依据", "to": "EXT-001"}
+{"from": "S06", "relation": "依据", "to": "EXT-020"}
+{"from": "S06", "relation": "依据", "to": "CN-042"}
+{"from": "S07", "relation": "原食材", "to": "E-b66d101e6ed36fa7"}
+{"from": "S07", "relation": "候选替代", "to": "E-941163d921dae1b9"}
+{"from": "S07", "relation": "依据", "to": "ADA-039"}
+{"from": "S07", "relation": "依据", "to": "EXT-007"}
+{"from": "S07", "relation": "依据", "to": "EXT-022"}
+{"from": "S08", "relation": "原食材", "to": "E-e840019209f56b97"}
+{"from": "S08", "relation": "候选替代", "to": "E-919e03ff1c2afff7"}
+{"from": "S08", "relation": "依据", "to": "CN-039"}
+{"from": "S08", "relation": "依据", "to": "CN-041"}
+{"from": "S08", "relation": "依据", "to": "EXT-001"}

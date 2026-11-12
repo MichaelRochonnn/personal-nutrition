@@ -1,0 +1,11 @@
+{
+  "id": "APP",
+  "title": "个人健康饮食助手·应用设计",
+  "author": "本技能编制",
+  "year": 2026,
+  "edition": "1.0.0",
+  "format": "JSONL与情境案例",
+  "language": "简体中文",
+  "locator_convention": "APP主张的locator和links指向组成证据；原页/机构小节见被引主张。无对应的单一原书食谱。",
+  "checked": "2026-11-12"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "HAR",
+  "title": "Eat, Drink, and Be Healthy: The Harvard Medical School Guide to Healthy Eating",
+  "author": "Walter C. Willett，with Patrick J. Skerrett；Edward L. Giovannucci 参与撰稿；食谱 Maureen Callahan",
+  "publisher": "Free Press（Simon & Schuster）",
+  "year": 2005,
+  "edition": "版权页明确为 2005 年 Free Press 平装版内容。版权属哈佛学院 2001、2005；电子文件未列另一个明确发行年。",
+  "language": "英文 en",
+  "format": "EPUB 2.0，可重排 XHTML",
+  "isbn": "9781439134818（电子版）；9780743266420（平装）；0684863375（原硬封）",
+  "filename": "9780684863375_FreePress_Eat,_Drink,_and_Be_Healthy_Harvard_Medical.epub",
+  "sha256": "48dd16acfbd21f22b8652a4df0cfe84cb2edb1bf757dcc6b029be0fcd0b935c3",
+  "metadata_locator": "ops/9781439134818.opf；ops/xhtml/title.html；ops/xhtml/copyright.html",
+  "locator_convention": "p[n] 指指定 XHTML body 的全部后代 p 元素按文档顺序从 1 计数，包括标题、表格单元和空段；书页锚点是 EPUB 内嵌 page_N，不是阅读器屏幕页。",
+  "scope": "美国背景的历史营养科普及家用食谱；数字、疾病结局、酒精与补充剂需另行核验。",
+  "date_checked": "2026-11-12"
+}

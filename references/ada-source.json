@@ -1,0 +1,24 @@
+{
+  "id": "ADA",
+  "title": "食物保健书",
+  "author": [
+    "美国饮食营养协会（American Dietetic Association，原名）",
+    "罗伯特·杜伊夫（Roberta Larson Duyff）"
+  ],
+  "translator": [
+    "鄂丽燕",
+    "张鑫"
+  ],
+  "year": 2005,
+  "edition": "简体中文第1版，2005年1月第1次印刷。书名页为《美国饮食营养协会新饮食营养全书/1》；未从本册版权页确定对应英文原版版次。",
+  "publisher": "中国轻工业出版社",
+  "isbn": "7-5019-4657-4",
+  "language": "简体中文，译本",
+  "format": "PDF 扫描本",
+  "pages": 413,
+  "locators": "从文件封面起1基的 PDF 页；目录页另编。正文印刷页数映射见覆盖记录。书名页 PDF 3，版权 PDF 4，目录 PDF 7–8。",
+  "filename": "12117593_食物保健书_美国饮食营养协会，（美）罗伯特·杜伊夫（Roberta_Larson_Duyff）_鄂丽燕，张鑫译.pdf",
+  "sha256": "c63c36bafe8538821b1d4f8e4a3a8e9c8b6cc6fd43bcb1a57440349be0b3ec78",
+  "checked": "2026-11-12",
+  "rights": "用户提供的本地副本；分享包只含自写摘要和定位。"
+}

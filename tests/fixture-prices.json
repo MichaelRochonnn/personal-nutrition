@@ -1,0 +1,122 @@
+{
+  "note": "虚构的按量散买单价，仅测试算术；未计包装取整、损耗或配送。不得用于任何真实城市报价。",
+  "currency": "CNY",
+  "prices": {
+    "rice": {
+      "price": 3.5,
+      "per": 150
+    },
+    "noodle": {
+      "price": 3,
+      "per": 100
+    },
+    "potato": {
+      "price": 2,
+      "per": 250
+    },
+    "bread": {
+      "price": 3.5,
+      "per": 80
+    },
+    "oat": {
+      "price": 1.5,
+      "per": 50
+    },
+    "tofu": {
+      "price": 3,
+      "per": 200
+    },
+    "egg": {
+      "price": 1.2,
+      "per": 50
+    },
+    "chicken": {
+      "price": 4.5,
+      "per": 100
+    },
+    "pollock": {
+      "price": 7,
+      "per": 100
+    },
+    "chickpea": {
+      "price": 4,
+      "per": 120
+    },
+    "tomato": {
+      "price": 2,
+      "per": 150
+    },
+    "greens": {
+      "price": 1.5,
+      "per": 150
+    },
+    "mushroom": {
+      "price": 2,
+      "per": 100
+    },
+    "carrot": {
+      "price": 1.2,
+      "per": 120
+    },
+    "pepper": {
+      "price": 2,
+      "per": 100
+    },
+    "oil": {
+      "price": 0.15,
+      "per": 5
+    },
+    "salt": {
+      "price": 0.03,
+      "per": 1
+    },
+    "milk": {
+      "price": 3,
+      "per": 250
+    },
+    "banana": {
+      "price": 1.5,
+      "per": 100
+    },
+    "orange": {
+      "price": 2,
+      "per": 150
+    },
+    "eggc": {
+      "price": 1.5,
+      "per": 50
+    },
+    "corn": {
+      "price": 3,
+      "per": 120
+    },
+    "yogurt": {
+      "price": 3.5,
+      "per": 150
+    },
+    "cucumber": {
+      "price": 1.5,
+      "per": 100
+    },
+    "soy": {
+      "price": 2.5,
+      "per": 250
+    },
+    "plainrice": {
+      "price": 2,
+      "per": 150
+    },
+    "vegserved": {
+      "price": 4,
+      "per": 150
+    },
+    "fishserved": {
+      "price": 8,
+      "per": 100
+    },
+    "poultryserved": {
+      "price": 6,
+      "per": 100
+    }
+  }
+}

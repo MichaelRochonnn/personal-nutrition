@@ -1,0 +1,62 @@
+{
+  "id": "CN",
+  "title": "中国居民膳食指南（2022）",
+  "author": "中国营养学会（编著）",
+  "publisher": "人民卫生出版社",
+  "year": 2022,
+  "edition": "指南修订第5版；该书2022年4月第1版第1次印刷",
+  "isbn": "978-7-117-31404-6",
+  "language": "简体中文，准则附英文",
+  "format": "PDF，整页中文彩色扫描，无可搜索文字或书签",
+  "pages": 378,
+  "input_filename": "中国居民膳食指南2022.pdf",
+  "sha256": "164ba82cc5029e15e7634b4663ccaa9aa0314851a887a3d5f44fe257f80df7a4",
+  "locator_convention": "PDF物理页从1起；电子16–375对应印刷正文1–360（含分部页），封面、前置及封后只用电子页。",
+  "bibliographic_locator": "电子2–3（扉页/版权页），8–9（前言，指南修订史），13–14（目录）",
+  "url": "https://www.cnsoc.org/bookpublica/0522202019.html",
+  "checked": "2026-11-12",
+  "verification_sources": {
+    "CNS": {
+      "institution": "中国营养学会",
+      "title": "《中国居民膳食指南（2022）》核心推荐",
+      "version": "2022",
+      "date": "2022-07-01",
+      "url": "https://www.cnsoc.org/bookpublica/0522202019.html"
+    },
+    "FOL": {
+      "institution": "国家卫生健康委员会",
+      "title": "出生缺陷防治健康教育核心信息，第十一条",
+      "version": "2019",
+      "date": "2019-09",
+      "url": "https://www.nhc.gov.cn/fys/c100077/201909/34e7984b496044ba932e9def12cd2ec1/files/1733998238748_87341.pdf"
+    },
+    "DRI": {
+      "institution": "中国营养学会",
+      "title": "中国居民膳食营养素参考摄入量（2023版）分人群目录",
+      "version": "2023；此处只核实新版及其分表",
+      "date": "2023",
+      "url": "https://www.cnsoc.org/drpostand/"
+    },
+    "OLD": {
+      "institution": "国家卫生健康委",
+      "title": "WS/T 878—2026 附录D；复列一般和高龄老年人膳食核心推荐",
+      "version": "WS/T 878—2026",
+      "date": "2026-02-28发布，2026-09-01实施",
+      "url": "https://www.nhc.gov.cn/fzs/c100048/202603/bc137ea10a084a9e87ed57902be81cb5/files/WST%20878%E2%80%942026.pdf"
+    },
+    "B12": {
+      "institution": "British Dietetic Association",
+      "title": "Vegetarian, vegan and plant-based diet, Vitamin B12",
+      "version": "在线食品事实表",
+      "date": "2021-04，注明计划2024-04复审，本PDF无新版日期",
+      "url": "https://www.bda.uk.com/static/0ac677ce-8694-4607-95b73227e3e5b2d8/BDAVegetarianVegan.pdf"
+    },
+    "ODS": {
+      "institution": "NIH Office of Dietary Supplements",
+      "title": "Vitamin B12 Fact Sheet for Health Professionals / Food; Vegetarians",
+      "version": "在线专业版",
+      "date": "2025-07-02更新",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人健康饮食助手"
+  short_description: "把可查证的营养知识用到家庭菜单、备孕饮食、外食和旅行安排中"
+  default_prompt: "用 $personal-nutrition 根据我本次确认的条件安排一周饮食，并列出购物清单和依据。"

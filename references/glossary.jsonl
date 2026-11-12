@@ -1,0 +1,43 @@
+{"name":"全谷物","en":"whole grains","aliases":["全谷","全谷物摄入","whole grain"],"type":"食物类别","note":"保留麸皮、胚芽和胚乳；杂粮的外观不保证全谷。"}
+{"name":"谷类","en":"cereal grains","aliases":["谷物"],"type":"食物类别","note":"不与含薯类的谷薯合并。"}
+{"name":"蔬菜","en":"vegetables","aliases":["新鲜蔬菜"],"type":"食物类别","note":"蔬菜和水果分别计。"}
+{"name":"完整水果","en":"whole fruit","aliases":["整果","新鲜水果"],"type":"食物类别","note":"过滤果汁是不同状态。"}
+{"name":"奶制品","en":"dairy products","aliases":["乳制品","奶及奶制品"],"type":"食物类别","note":"液态奶当量需要指定换算依据。"}
+{"name":"奶当量","en":"milk equivalent","aliases":["液态奶当量"],"type":"计量","note":"钙等量和蛋白质等量可能对应不同份量。"}
+{"name":"全素饮食","en":"vegan diet","aliases":["严格素食","纯素","vegan"],"type":"饮食模式","note":"蛋奶素单列，不能自动互换。"}
+{"name":"不饱和脂肪","en":"unsaturated fat","aliases":["不饱和脂肪酸"],"type":"营养概念","note":"讨论替代效果时明确替代对象。"}
+{"name":"饱和脂肪","en":"saturated fat","aliases":["饱和脂肪酸"],"type":"营养概念","note":"油的克数与供能占比不同。"}
+{"name":"膳食纤维","en":"dietary fiber","aliases":["dietary fibre"],"type":"营养素","note":"纤维包括多类成分；纤维素仅是其中一类。"}
+{"name":"食盐","en":"salt","aliases":["食用盐"],"type":"食材","note":"钠不是盐。按氯化钠当量盐克≈钠毫克×2.5÷1000。"}
+{"name":"钠","en":"sodium","aliases":["Na"],"type":"营养素","note":"食盐以外的成分也含钠。"}
+{"name":"游离糖","en":"free sugars","aliases":["free sugar"],"type":"营养概念","note":"含蜂蜜、糖浆、果汁中的糖。"}
+{"name":"添加糖","en":"added sugars","aliases":["added sugar"],"type":"营养概念","note":"与总糖、WHO游离糖定义有差别。"}
+{"name":"叶酸","en":"folate","aliases":["维生素B9","维生素B₉"],"type":"营养素","note":"广义总称；膳食叶酸当量DFE与具体补充剂剂量分开。"}
+{"name":"叶酸补充剂","en":"folic acid supplement","aliases":["folic acid","叶酸补充","合成叶酸补充剂"],"type":"补充剂","note":"先看具体形式，0.4 mg为400 µg；不能把DFE按相同数值代入。"}
+{"name":"维生素B12","en":"vitamin B12","aliases":["钴胺素","B12","维生素B₁₂"],"type":"营养素","note":"全素时须有可信的食物或补充来源。"}
+{"name":"复合维生素","en":"multivitamin","aliases":["多种维生素","多维","multivitamins"],"type":"补充剂","note":"品牌之间成分和剂量不等。"}
+{"name":"维生素E补充剂","en":"vitamin E supplement","aliases":["补充维生素E"],"type":"补充剂","note":"天然食物与补充剂的证据分别评估。"}
+{"name":"过敏原交叉接触","en":"allergen cross-contact","aliases":["交叉接触","潜在交叉接触","cross-contact"],"type":"适用限制","note":"和细菌从生食沾到熟食的交叉污染分开检查。"}
+{"name":"食物过敏","en":"food allergy","aliases":["食物过敏史","过敏"],"type":"适用限制","note":"已知具体过敏原、产品、厨房需分别核实。"}
+{"name":"牛奶蛋白过敏","en":"cow's milk protein allergy","aliases":["奶蛋白过敏","牛奶过敏","乳蛋白过敏","milk allergy"],"type":"适用限制","note":"无乳糖乳品仍可含乳蛋白。"}
+{"name":"乳糖不耐受","en":"lactose intolerance","aliases":["乳糖不耐","不耐乳糖"],"type":"适用限制","note":"能耐受的量有差异。"}
+{"name":"备孕","en":"preconception","aliases":["孕前","共同备孕"],"type":"生命周期","note":"明确计划妊娠者与另一成员。"}
+{"name":"孕期","en":"pregnancy","aliases":["怀孕","妊娠期"],"type":"生命周期","note":"确认孕周。"}
+{"name":"哺乳期","en":"lactation","aliases":["breastfeeding","哺乳阶段"],"type":"生命周期","note":"分别确认谁在哺乳和婴儿情况。"}
+{"name":"围绝经期","en":"perimenopause","aliases":["绝经过渡期"],"type":"生命周期","note":"不能按年龄自动判定。"}
+{"name":"老年人","en":"older adults","aliases":["老年"],"type":"人群","note":"高龄、衰弱和吞咽问题需进一步区分。"}
+{"name":"一般成人","en":"adults","aliases":["成年人","一般成年人","成人"],"type":"人群","note":"人群范围可能受具体来源限制。"}
+{"name":"外食","en":"eating out","aliases":["餐馆","点餐","外卖"],"type":"场景","note":"酱汁、实际配料和烹饪油可能未知。"}
+{"name":"无厨房","en":"no kitchen","aliases":["酒店","无厨具","住宿"],"type":"场景","note":"需区分是否有冰箱、饮用水与商店。"}
+{"name":"旅行","en":"travel","aliases":["出差","高铁","机场","途中"],"type":"场景","note":"按当地安全和食品供应动态判断。"}
+{"name":"备餐","en":"meal prep","aliases":["提前备餐","居家备餐"],"type":"场景","note":"保存时长与复热另查。"}
+{"name":"生重","en":"raw weight","aliases":["烹调前重量"],"type":"计量","note":"生重可能含不可食部分，要另记。"}
+{"name":"熟重","en":"cooked weight","aliases":["烹调后重量"],"type":"计量","note":"烹调吸水、失水和可食率都会改写折算。"}
+{"name":"可食部","en":"edible portion","aliases":["可食部分"],"type":"计量","note":"采购毛重与可食净重不能相加。"}
+{"name":"每份","en":"per serving","aliases":["per portion"],"type":"计量","note":"读清一份重量/体积及产品含几份。"}
+{"name":"每100克","en":"per 100 g","aliases":["每百克","每100g"],"type":"计量","note":"每100mL和每100g需有密度才可换算。"}
+{"name":"膳食营养素参考摄入量","en":"dietary reference intakes","aliases":["DRIs","营养素参考摄入量"],"type":"营养概念","note":"EAR平均需要量、RNI推荐摄入量、AI适宜摄入量、UL可耐受最高摄入量。"}
+{"name":"营养素参考值","en":"nutrient reference value","aliases":["NRV","NRV%"],"type":"营养概念","note":"标签参考值不能当个人目标。"}
+{"name":"饮酒","en":"alcohol consumption","aliases":["酒精饮料","饮用酒精"],"type":"行为","note":"剂量按纯乙醇，有酒精和非饮酒者分别判断。"}
+{"name":"自然受孕率","en":"natural conception rate","aliases":[],"type":"健康结局","note":"具体研究终点可能是受孕时间、临床妊娠或活产，分别记录。"}
+{"name":"生熟分开","en":"separate raw and cooked foods","aliases":["生熟分离"],"type":"烹调方法","note":"砧板、刀具、器皿、储存位置都核查。"}

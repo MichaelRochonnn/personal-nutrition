@@ -1,0 +1,25 @@
+{
+  "meal_name": "演算样例：按干重分装的普通压片燕麦（仅该食材，实查标签，非完整早餐）",
+  "instructions": "按实际吃下的可食部记录。targets给出所求营养素和统一单位。review中food为主要食材，oil为油，salt为盐，condiment为其他调味料，drink为饮料。listed表示该类所有项目已列，none表示确认未用，unknown或遗漏阻止发布全餐合计。标签未知令basis为null，份量未知令portion.amount为null。保留真实来源和生熟状态。多人的servings只适用于均匀等分。",
+  "servings": 1,
+  "targets": {"能量": "kcal", "蛋白质": "g", "膳食纤维": "g", "钠": "mg", "维生素C": "mg"},
+  "review": {"food": "listed", "oil": "none", "salt": "none", "condiment": "none", "drink": "none"},
+  "items": [
+    {
+      "name": "Bob’s Red Mill Old Fashioned Regular Rolled Oats（普通版）",
+      "category": "food",
+      "source": "Bob’s Red Mill，Old Fashioned Regular Rolled Oats，Nutrition Facts／每份1/2杯（49 g）；美国厂商产品标签，2026-11-12核对 https://www.bobsredmill.com/product/regular-rolled-oats",
+      "portion": {"amount": 24.5, "unit": "g", "state": "干燕麦可食部", "edible": true},
+      "basis": {
+        "amount": 49, "unit": "g", "state": "干燕麦可食部", "edible": true,
+        "values": {
+          "能量": {"value": 190, "unit": "kcal"},
+          "蛋白质": {"value": 6, "unit": "g"},
+          "膳食纤维": {"value": 4, "unit": "g"},
+          "钠": {"value": 0, "unit": "mg"},
+          "维生素C": null
+        }
+      }
+    }
+  ]
+}

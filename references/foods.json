@@ -1,0 +1,234 @@
+[
+  {
+    "id": "rice",
+    "name": "即食糙米饭",
+    "state": "熟可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "糙米、水；原味单人份，需加热"
+  },
+  {
+    "id": "noodle",
+    "name": "快熟全麦面",
+    "state": "干可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "小麦、水；核实有无蛋"
+  },
+  {
+    "id": "potato",
+    "name": "马铃薯",
+    "state": "生可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "洗净切小丁；按可食部"
+  },
+  {
+    "id": "bread",
+    "name": "全麦面包",
+    "state": "成品可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "确认实际配料与同线信息，配方依品牌"
+  },
+  {
+    "id": "oat",
+    "name": "即食燕麦片",
+    "state": "干可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "原味；确认有无小麦交叉接触"
+  },
+  {
+    "id": "tofu",
+    "name": "北豆腐",
+    "state": "包装沥水可食",
+    "unit": "g",
+    "group": "豆类",
+    "note": "大豆、水、凝固剂；钙含量看凝固剂与标签"
+  },
+  {
+    "id": "egg",
+    "name": "鸡蛋",
+    "state": "去壳生可食",
+    "unit": "g",
+    "group": "蛋类",
+    "note": "每枚可食部约50克；大小会变"
+  },
+  {
+    "id": "chicken",
+    "name": "生鸡肉薄片",
+    "state": "生可食",
+    "unit": "g",
+    "group": "禽肉",
+    "note": "原味去骨薄片，不额外腌制或上浆"
+  },
+  {
+    "id": "pollock",
+    "name": "狭鳕鱼柳",
+    "state": "生可食",
+    "unit": "g",
+    "group": "鱼类",
+    "note": "无裹粉，去刺；冷藏解冻或当天买"
+  },
+  {
+    "id": "chickpea",
+    "name": "熟鹰嘴豆",
+    "state": "成品沥干",
+    "unit": "g",
+    "group": "杂豆",
+    "note": "已煮熟，原味，核配料与盐；可选低钠"
+  },
+  {
+    "id": "tomato",
+    "name": "番茄",
+    "state": "生可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "洗净"
+  },
+  {
+    "id": "greens",
+    "name": "小白菜",
+    "state": "生可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "洗净"
+  },
+  {
+    "id": "mushroom",
+    "name": "鲜香菇",
+    "state": "生可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "洗净去硬柄"
+  },
+  {
+    "id": "carrot",
+    "name": "胡萝卜",
+    "state": "生可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "洗净切薄片或细丝"
+  },
+  {
+    "id": "pepper",
+    "name": "甜椒",
+    "state": "生可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "洗净去蒂籽"
+  },
+  {
+    "id": "oil",
+    "name": "菜籽油",
+    "state": "原液",
+    "unit": "g",
+    "group": "调味",
+    "note": "单一油种；核实非混合油"
+  },
+  {
+    "id": "salt",
+    "name": "碘盐",
+    "state": "干可食",
+    "unit": "g",
+    "group": "调味",
+    "note": "按整天总盐调节，可以不用"
+  },
+  {
+    "id": "milk",
+    "name": "常温纯牛奶",
+    "state": "独立包装原液",
+    "unit": "mL",
+    "group": "奶类",
+    "note": "灭菌乳；未开封可常温储存按标签，开封即饮"
+  },
+  {
+    "id": "banana",
+    "name": "香蕉",
+    "state": "去皮可食",
+    "unit": "g",
+    "group": "水果",
+    "note": "完整带皮购买，剥皮即食"
+  },
+  {
+    "id": "orange",
+    "name": "橙",
+    "state": "去皮可食",
+    "unit": "g",
+    "group": "水果",
+    "note": "完整购买，洗净剥皮"
+  },
+  {
+    "id": "eggc",
+    "name": "全熟鸡蛋",
+    "state": "熟去壳可食",
+    "unit": "g",
+    "group": "蛋类",
+    "note": "已熟，现取或依包装冷藏"
+  },
+  {
+    "id": "corn",
+    "name": "熟玉米粒",
+    "state": "熟可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "即食小袋或现场现煮去芯，核标签"
+  },
+  {
+    "id": "yogurt",
+    "name": "原味无加糖酸奶",
+    "state": "冷藏成品",
+    "unit": "g",
+    "group": "奶类",
+    "note": "杀菌乳制，冷链可核，随买随吃"
+  },
+  {
+    "id": "cucumber",
+    "name": "黄瓜",
+    "state": "生可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "可用流动安全水洗净；无洗涤条件改选现做熟蔬菜"
+  },
+  {
+    "id": "soy",
+    "name": "无糖豆饮",
+    "state": "独立包装原液",
+    "unit": "mL",
+    "group": "豆类",
+    "note": "是否强化钙、B12按产品标签核对"
+  },
+  {
+    "id": "plainrice",
+    "name": "白米饭",
+    "state": "熟可食",
+    "unit": "g",
+    "group": "谷薯",
+    "note": "现场现做熟米饭"
+  },
+  {
+    "id": "vegserved",
+    "name": "清炒时蔬",
+    "state": "上桌熟可食",
+    "unit": "g",
+    "group": "蔬菜",
+    "note": "店制，问油、盐、酱料、共锅情况"
+  },
+  {
+    "id": "fishserved",
+    "name": "清蒸鱼",
+    "state": "上桌熟可食",
+    "unit": "g",
+    "group": "鱼类",
+    "note": "去骨可食部分，问鱼种、酱汁、共用器具"
+  },
+  {
+    "id": "poultryserved",
+    "name": "清炖鸡肉",
+    "state": "上桌熟可食",
+    "unit": "g",
+    "group": "禽肉",
+    "note": "去骨估算；问汤底、酱料与共用器具"
+  }
+]
